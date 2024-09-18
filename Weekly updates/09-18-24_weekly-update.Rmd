@@ -1,0 +1,24 @@
+---
+title: "09-18-24_weekly-update"
+author: "Cappy Pugliese"
+date: "2024-09-18"
+output: html_document
+---
+
+##Last Week
+####9/9 - 9/13
+- finished reading most of the Forsythe 2021 paper
+- finished my individual development plan
+- practiced more with using github
+- learned about the cluster and started the sign up process
+
+##This Week
+####9/16 - 9/20
+- checked out whitenose.org
+- finished skimming through the rest of the Forsythe 2021 paper
+- skimmed through the other 2 WNS papers
+- tried to finish setting up cluster account
+  - wasn't letting me reset my password for some reason
+  - but I might just have to wait a week or so
+- downloaded fastQC to laptop
+- 
