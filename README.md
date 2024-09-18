@@ -1,2 +1,2 @@
-# cappy-lab-notebook
- My lab notebook for the Dagilis lab
+# Cappy's Lab Notebook
+ This is my lab notebook for the Dagilis lab
