@@ -5,25 +5,26 @@ date: "2024-09-18"
 output: html_document
 ---
 
-##Last Week
-####9/9 - 9/13
+### Last Week
+#### 9/9 - 9/13
 - finished reading most of the Forsythe 2021 paper
 - finished my individual development plan
 - practiced more with using github
 - learned about the cluster and started the sign up process
+- dropped one of my classes (conservation bio) since my courseload was too much
 
-##This Week
-####9/16 - 9/17
-- checked out whitenose.org
+### This Week
+#### 9/16 - 9/17
+- checked out [whitenose.org](https://www.whitenosesyndrome.org/)
 - finished skimming through the rest of the Forsythe 2021 paper
 - skimmed through the other 2 WNS papers
 - tried to finish setting up cluster account
   - wasn't letting me reset my password for some reason
   - but I might just have to wait a week or so
   
-####9/18
+#### 9/18
 - downloaded fastQC to laptop
-- downloaded a random P. destructans fastq file
+- downloaded a random _P. destructans_ fastq file
   - had some trouble downloading the right file format, but then I figured it out
   - tried to run it through fastQC
   - there was a file format error
