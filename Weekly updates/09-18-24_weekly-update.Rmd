@@ -13,12 +13,22 @@ output: html_document
 - learned about the cluster and started the sign up process
 
 ##This Week
-####9/16 - 9/20
+####9/16 - 9/17
 - checked out whitenose.org
 - finished skimming through the rest of the Forsythe 2021 paper
 - skimmed through the other 2 WNS papers
 - tried to finish setting up cluster account
   - wasn't letting me reset my password for some reason
   - but I might just have to wait a week or so
+  
+####9/18
 - downloaded fastQC to laptop
-- 
+- downloaded a random P. destructans fastq file
+  - had some trouble downloading the right file format, but then I figured it out
+  - tried to run it through fastQC
+  - there was a file format error
+- decided it was a great time to start up my lab notebook
+  - set up a repository in github
+  - figured out how to add r files to my repository
+  - figured out how to create r markdown files
+  - wrote this r markdown file
