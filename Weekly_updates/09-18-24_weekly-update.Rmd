@@ -4,8 +4,7 @@ author: "Cappy Pugliese"
 date: "2024-09-18"
 output: html_document
 ---
-```setwd("/Users/caprinapugliese/Documents/School/Uconn/2024-26_Grad_School/GitHub/cappy.s-lab-notebook/Weekly_updates/images")
-```
+
 ### Last Week
 #### 9/9 - 9/13
 - finished reading most of the Forsythe 2021 paper
