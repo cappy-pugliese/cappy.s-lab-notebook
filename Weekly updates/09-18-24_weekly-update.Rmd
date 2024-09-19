@@ -33,3 +33,18 @@ output: html_document
   - figured out how to add r files to my repository
   - figured out how to create r markdown files
   - wrote this r markdown file
+  
+#### 9/19
+- tried to re-run the fastq file through fastQC
+  - once again there was a file format error
+  - I tried downloading a different fastq file to see if it was just that particular file
+  - still recieved the same file format error
+  - downloaded it a different way again and still recieved the same file format error
+  - unsure of what I am doing wrong or if I need to go in and change the file format?
+- watched some [xanadu intro videos](https://github.com/CBC-UCONN/CBC_Docs/wiki/Intro-to-Xanadu-Videos)
+  - learned how to use the terminal to sign into the head computer
+    (have not tested it out yet though)
+  
+  
+  
+  
