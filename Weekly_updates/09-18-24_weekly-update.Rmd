@@ -45,7 +45,7 @@ output: html_document
 
 - watched some [xanadu intro videos](https://github.com/CBC-UCONN/CBC_Docs/wiki/Intro-to-Xanadu-Videos)
   - learned how to use the terminal to sign into the head computer
-    (have not tested it out yet though)
+  - was able to successfully sign in and out of the cluster using the command line
   
 
 
