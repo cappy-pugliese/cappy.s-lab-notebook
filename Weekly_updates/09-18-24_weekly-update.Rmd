@@ -2,7 +2,7 @@
 title: "09-18-24_weekly-update"
 author: "Cappy Pugliese"
 date: "2024-09-18"
-output: html_document
+output: pdf_document
 ---
 
 ### Last Week
