@@ -2,7 +2,13 @@
 title: "09-18-24_weekly-update"
 author: "Cappy Pugliese"
 date: "2024-09-18"
-output: pdf_document
+output:
+  pdf_document:
+    latex_engine: xelatex
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+  
 ---
 
 ### Last Week
@@ -41,11 +47,10 @@ output: pdf_document
   - still recieved the same file format error
   - downloaded it a different way again and still recieved the same file format error
   - unsure of what I am doing wrong or if I need to go in and change the file format?
-![file error message](images/fastq-file-error-message_09-19-24.png)
+
+![file error message](images/fastq-file-error-message_09-19-24.png){width=75%}
 
 - watched some [xanadu intro videos](https://github.com/CBC-UCONN/CBC_Docs/wiki/Intro-to-Xanadu-Videos)
   - learned how to use the terminal to sign into the head computer
   - was able to successfully sign in and out of the cluster using the command line
 
-  
-  
