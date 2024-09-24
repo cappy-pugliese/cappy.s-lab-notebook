@@ -1,0 +1,16 @@
+---
+title: "09-24-24_weekly_update"
+author: "Cappy Pugliese"
+date: "2024-09-24"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### 9/24
+- messed around in Rmarkdown
+- watched some more xanadu tutorials
