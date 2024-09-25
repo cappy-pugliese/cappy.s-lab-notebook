@@ -19,3 +19,5 @@ header-includes:
 - read a bit of the assigned lab paper
 - did a WNS paper search and signed up for email alerts
 - messed around a bit more in Rmarkdown
+- attempted to look into fastqc file error again
+  - looks like both the files I downloaded might be multi-line fastq files, and fastQC is not able to process that file format
