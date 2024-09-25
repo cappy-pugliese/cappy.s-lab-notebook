@@ -1,5 +1,5 @@
 ---
-title: "09-18-24_weekly-update"
+title: "Weekly Update"
 author: "Cappy Pugliese"
 date: "2024-09-18"
 output:
@@ -46,11 +46,16 @@ header-includes:
   - I tried downloading a different fastq file to see if it was just that particular file
   - still recieved the same file format error
   - downloaded it a different way again and still recieved the same file format error
-  - unsure of what I am doing wrong or if I need to go in and change the file format?
+  - unsure of what I am doing wrong or if I need to go in and change the file format?  
 
-![file error message](images/fastq-file-error-message_09-19-24.png){width=75%}
+\vspace{3mm}
+
+\centerline{\includegraphics[width=0.8\textwidth]{images/fastq-file-error-message_09-19-24.png}}
 
 - watched some [xanadu intro videos](https://github.com/CBC-UCONN/CBC_Docs/wiki/Intro-to-Xanadu-Videos)
   - learned how to use the terminal to sign into the head computer
   - was able to successfully sign in and out of the cluster using the command line
+  
+  
+
 
