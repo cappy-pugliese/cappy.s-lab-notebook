@@ -21,3 +21,11 @@ header-includes:
 - messed around a bit more in Rmarkdown
 - attempted to look into fastqc file error again
   - looks like both the files I downloaded might be multi-line fastq files, and fastQC is not able to process that file format
+  - may be possible to convert the file format using software??
+    - bioruby??
+
+#### 9/26
+- tried to read lab paper but was not in a productive reading mode, so worked on homework instead
+
+#### 9/27
+- finished reading the rest of the lab paper
