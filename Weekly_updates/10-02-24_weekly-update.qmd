@@ -1,0 +1,30 @@
+---
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: 10-02-2024
+format: pdf
+editor: visual
+---
+
+### This week
+
+#### 9/30 - 10/1
+
+-   finished preparing class presentation & presented
+
+-   talked to Andrius about fastQC
+
+-   worked on BEETS presentation
+
+#### 10/2
+
+-   talked w/ Andrius about the trimmed WNS file, fastQC, quality scores, using SRA toolkit, using the command line, using quarto for R studio, potential classes to TA next semester
+
+-   downloaded quarto and tested it out
+
+-   spent a little too long trying to switch around the font in quarto (ran into many issues)
+
+-   downloaded SRA toolkit
