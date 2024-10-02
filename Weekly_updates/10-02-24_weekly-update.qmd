@@ -27,4 +27,6 @@ editor: visual
 
 -   spent a little too long trying to switch around the font in quarto (ran into many issues)
 
--   downloaded SRA toolkit
+-   downloaded SRA toolkit, ran into some issues trying to get it to work
+
+-   decided to look at the unix shell resource and got familiar with the terminal
