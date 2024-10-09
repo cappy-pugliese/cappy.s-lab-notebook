@@ -19,3 +19,10 @@ header-includes:
 #### 10/09
 - talked w/ Andrius about bashrc files, creating aliases (shortcuts), working on the cluster, TA/teaching stuff for next semester
   - goal this week is to follow along with the WNS shared file on the cluster
+- got more familiar with the terminal and made a command cheat sheet
+- logged into the storrs cluster
+- created some file directories
+- attempted to download data from NCBI
+  - tried to use a python package shortcut
+  - had issues installing the package
+  - may try to trouble shoot another day/figure out another way to download the data
