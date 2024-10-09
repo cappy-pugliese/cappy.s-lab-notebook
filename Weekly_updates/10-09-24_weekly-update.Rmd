@@ -1,0 +1,21 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "10/07 - 10/11"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### 10/08
+- finished and presented BEETS presentation
+
+#### 10/09
+- talked w/ Andrius about bashrc files, creating aliases (shortcuts), working on the cluster, TA/teaching stuff for next semester
+  - goal this week is to follow along with the WNS shared file on the cluster
