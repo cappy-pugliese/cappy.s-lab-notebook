@@ -26,3 +26,8 @@ header-includes:
   - tried to use a python package shortcut
   - had issues installing the package
   - may try to trouble shoot another day/figure out another way to download the data
+  
+#### 10/10
+- tried trouble shooting installing package and failed
+  - giving up on using this package
+- learned that the storrs HPC does not have sratoolkit installed
