@@ -31,3 +31,9 @@ header-includes:
 - tried trouble shooting installing package and failed
   - giving up on using this package
 - learned that the storrs HPC does not have sratoolkit installed
+
+#### 10/11
+- was finally able to download fastq file using sratoolkit on the farmington cluster
+- tried to analyze using fastqc but run was killed
+  - generated a fastqc zip file but not a viewable html file
+  - looks like I may have run out of memory
