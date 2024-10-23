@@ -1,0 +1,52 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "10/15 - 10/25"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### Last Week
+#### 10/15
+- was able to generate the html with fastQC (just needed more memory to run)
+- unable to open the html on the cluster
+  - tried first to open on a linked local host
+    - did not work ---> had to trouble shoot
+    - was unable to get it to work
+- needed to figure out how to send files over to my laptop
+
+#### 10/16
+- tried sending file over with filezilla
+  - filezilla was being a buttface and not connecting to the transfer node
+- tried to use SSHFS software to mirror share files to my laptop
+  - was able to get it to work, and am able to move files over to my laptop as well
+
+#### 10/17
+- attempted to spend a little bit of time doing some lab work, but got distracted and ended up reorganizing my laptop's directories before I even made it onto the cluster
+
+#### 10/18
+- took the day off to catch up on cleaning my apartment and running errands
+
+### This Week
+#### 10/22
+- started to plan out my mock preproposal topic for class
+
+#### 10/23
+- was able to access shared lab directory on the cluster
+  - tried to create a user directory for myself, but I didn't have permission to do so
+  - went back to my own directory
+- continued following along with the WNS reanalysis doc
+- trimmed sequence with bbduk
+- ran the trimmed sequences through fastqc
+- looked at the fastqc reports
+- attempted to download reference genome
+  - ran into problems with prefetching the proper name
+  - used url to help with download
+  - unsure if I properly downloaded it or not, but it did download something
+
