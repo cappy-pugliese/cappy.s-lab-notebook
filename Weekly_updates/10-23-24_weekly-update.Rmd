@@ -49,4 +49,13 @@ header-includes:
   - ran into problems with prefetching the proper name
   - used url to help with download
   - unsure if I properly downloaded it or not, but it did download something
+  
+#### 10/24
+- looks like reference genome was downloaded properly
+- started to map the sequences
+- loaded in a bunch of modules to get the code to work
+  - had a bit of trouble at first (loaded in the wrong bwa-mem module)
+  - added the modules into .bashrc file and reorganized the file itself
+- was able to run the bwa-mem code and got out a bam file
+- loaded in the picard module, but did not run the code yet
 
