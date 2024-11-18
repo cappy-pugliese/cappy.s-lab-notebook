@@ -1,0 +1,19 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "11/17 - 11/22"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This Week
+#### 11/17
+- took my cat on a hike :)
+- worked on 3rd grade outreach presentation
+- updated last week's weekly update

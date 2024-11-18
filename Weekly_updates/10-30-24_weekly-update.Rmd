@@ -42,10 +42,3 @@ header-includes:
         
 -   also edited my lab member page a little
 -   added a bioinformatics resources post on the blog portion of the lab website
-
-#### 11/3
-- read some more WNS papers and added some info to the excel sheet I created
-- found some interesting papers (same main author) that found a novel partitivirus in North American _P. destructans_ strains
-  - virus appears to help increase growth and spread of fungus
-- revised preproposal idea
-- created preproposal deadlines for myself to keep me on track

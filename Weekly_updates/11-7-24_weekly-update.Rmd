@@ -1,0 +1,34 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "11/3 - 11/8"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This Week
+#### 11/3
+- read some more WNS papers and added some info to the excel sheet I created
+- found some interesting papers (same main author) that found a novel partitivirus in North American _P. destructans_ strains
+  - virus appears to help increase growth and spread of fungus
+- revised preproposal idea
+- created preproposal deadlines for myself to keep me on track
+
+#### 11/6
+- in lab meeting found out that the reference genome I had downloaded was a zip file, which is why the code wasn't working
+- worked on preparing for EEB outreach
+
+#### 11/7
+- tried to continue working on aligning sequence to genome
+- tried to index reference genome
+  - ran into issues with indexing (index files missing)
+  - attempted to troubleshoot, but eventually gave up for the day
+  
+#### 11/8
+- solidified school outreach plan for 4th grade classrooms

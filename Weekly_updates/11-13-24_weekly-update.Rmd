@@ -1,0 +1,39 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "11/11 - 11/16"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This Week
+#### 11/11
+- read WNS paper before lab meeting
+- evolution homework
+
+#### 11/12
+- school outreach planning for 3rd grade classrooms
+
+#### 11/13
+- created shortcut to get to the reference genome in the shared cluster lab directory
+- was going to try trouble shooting what I was doing last week with this indexed reference genome, but ran out of time
+- had to drop off my car to get fixed, but also had to get to an appointment all the way in Farmington without my car... so I spent a lot of time figuring out transportation and whatnot
+
+#### 11/14
+- got my car back
+- struggled with getting myself to do work
+- worked on outlining my preproposal
+
+#### 11/15
+- last minute outreach prep
+- did 4th grade animal adaptation outreach (it went well!)
+
+#### 11/16
+- Wrote up outreach activity directions
+- signed and emailed in TA form for the spring
