@@ -35,3 +35,12 @@ header-includes:
     - ended up putting all the files in one folder out of frustration
     - finally realized I had a copy error
     - finally got things working
+    
+#### 11/20
+- cleaned up and reorganized things
+- finished re-editing the bam file
+- still ended up running into the "failed to open file" error
+  - realized it was because I did not properly located the files
+- tried to start the gatk pipeline as well, but the cluster does not have the gatk software already downloaded as a module
+  - was able to download gatk from github and unzip the file
+  - I'm unsure how to get gatk to work from here
