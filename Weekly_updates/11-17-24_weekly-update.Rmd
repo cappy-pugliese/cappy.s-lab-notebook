@@ -17,3 +17,21 @@ header-includes:
 - took my cat on a hike :)
 - worked on 3rd grade outreach presentation
 - updated last week's weekly update
+
+#### 11/18
+- dentist appointment
+- worked more on my preproposal
+
+#### 11/19
+- made symlinks to get to the lab directory and the PD genome reference folder
+- was going to try to use the files in the reference folder run the bwa mem command, but I quickly ran into permissions issues
+- created a reference dict with picard
+- indexed with bwa
+- bwa mem command still "could not locate index files"
+  - banged my head against a wall for an hour while I tried to troubleshoot again
+    - had trouble naming the location of the index files
+    - then started running into a "command not found" error
+      - I had accidentally included "bash-4.2$" text in my code at some point because of a copy error
+    - ended up putting all the files in one folder out of frustration
+    - finally realized I had a copy error
+    - finally got things working
