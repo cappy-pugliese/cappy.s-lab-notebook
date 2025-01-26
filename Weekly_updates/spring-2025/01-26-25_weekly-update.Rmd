@@ -12,6 +12,13 @@ header-includes:
   \setmainfont{Courier}
 ---
 
+### Over break
+- finally finished my website!
+- successfully recovered from surgery
+- spent time with family
+- found some wns related articles to read
+  - (haven't read yet though)
+
 ### Last Week
 - began prepping to go back to school
 - lots of email stuff
@@ -24,3 +31,6 @@ header-includes:
 - got adjusted to my new schedule and classes
 - prepared to TA my first class (went well)
 - spent a bit of time getting used to the new HuskyCT setup and figuring out where things are
+- set up attendance sheets to keep track of attendance
+- figured out how to grade in HuskyCT
+- went to the NRE/EEB grad event
