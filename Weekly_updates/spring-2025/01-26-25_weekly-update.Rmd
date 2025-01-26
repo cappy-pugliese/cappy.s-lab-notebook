@@ -1,0 +1,26 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "1/21 - 1/25"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### Last Week
+- began prepping to go back to school
+- lots of email stuff
+- first bio 1108 lab meeting
+- moved back into my apartment
+
+### This Week
+- went to grad student book club meeting :)
+- got allergy tested (not fun)
+- got adjusted to my new schedule and classes
+- prepared to TA my first class (went well)
+- spent a bit of time getting used to the new HuskyCT setup and figuring out where things are
