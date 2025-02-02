@@ -1,0 +1,27 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "1/27 - 1/31"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+- downloaded notion and found a way to better prioritize my tasks
+- made myself an online sticker chart to help motivate me to do difficult tasks
+- read a review paper on genomic methods for class
+- had to do some more allergy testing (not fun)
+- did a decent amount of other class work
+- did a learning assignment on the cluster for my genomics class
+- had to respond to a bunch of student emails
+
+### Next week
+- keep up with my class work
+- reach out about lab meetings
+- try to balance out my work a bit better
