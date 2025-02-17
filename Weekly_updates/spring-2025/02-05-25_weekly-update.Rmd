@@ -1,0 +1,39 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "2/3 - 2/7"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### 2/3
+- went to evolunch
+  - discussed local adaptation in terms of hosts and parasites
+- TA prep
+- reading for class
+
+#### 2/4
+- worked on homework for classes
+- EEB 5300
+  - learned more about file formats and aligning reads
+  - learned more about SAM/BAM and VCF files in depth
+  - learned a bit more about how to submit jobs to the cluster and what a job template should look like
+  
+#### 2/5
+- sent some emails
+- worked on some homework
+- sent slack updates
+
+#### 2/6 Snow day
+- took some time to rest
+- did hands on work with SAM files for EEB 5300
+
+#### 2/7
+- spent most of the day teaching 1108 lab and tutoring hours
