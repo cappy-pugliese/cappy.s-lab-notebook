@@ -39,4 +39,25 @@ header-includes:
 
 #### 2/18
 - one-on-one lab meeting
+  - nf core website
+    - has premade pipelines that should work
+    - aimed at long reads
+  - talked about beginning to write SLURM script
+- went into my directory on xanadu for the first time in a while
+  - I understand the different file types a lot better now thanks to Jill's class, and I have a better understanding of what I'm doing now
+  - did some reorganizing
+  - downloaded .gtf and .gff for the pd reference genome to my pd reference folder
 - proctored exam for bio1108
+
+#### 2/18-2/21
+- spent a lot of time working on the lab work for EEB 5300
+  - worked a lot more with sending in jobs using slurm
+  - looked at read quality for both long and short reads
+  - learned how to filter for contaminants
+  - worked with jellyfish and genomescope
+  - wrote a script to assemble a genome using flye
+- also spent a head-bashingly amount of time fighting github
+  - (had some merge errors and I was working on the terminal with github for the first time)
+  
+
+

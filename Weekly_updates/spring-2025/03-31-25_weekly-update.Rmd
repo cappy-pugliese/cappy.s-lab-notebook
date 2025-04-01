@@ -1,0 +1,25 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "3/31 - 4/04"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### Last week (3/24 - 3/28)
+- got sick, did not get much done
+- it's been a while since I've done a weekly update since I've been swamped with a lot of work lately and haven't been able to keep up
+
+### This week
+## Monday 3/31
+- started working on my group project for Jill's genomics class
+- sent a bunch of class emails
+- did collections tour training for bio 1108
+- very briefly checked in on my xanadu lab directory since it has been a while
+  - slightly reorganized some stuff to make things easier to navigate
