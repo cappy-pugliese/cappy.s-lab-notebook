@@ -1,0 +1,40 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "4/07 - 4/11"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### Monday 4/7
+- evolunch: talked about epistasis and ways to measure fitness
+- read the last paper for EEB 5300
+
+#### Tuesday 4/8
+- lab working session
+  - learned a lot more about the GATK pipeline
+  - learned about phred likelyhood scores
+  - learned a bit more about submitting multiple jobs at a time
+  - did a bit of reorganizing on the cluster
+  - saved my EEB 5300 class scripts to github
+  - looked at sample data
+    - added in geographic location data that I found from my previous class project
+    - still need to look into finding the rest
+- finalized advisory committee meeting
+  - will have to keep Elizabeth updated since she can't make it
+- sent out some emails
+
+#### Wednesday 4/9
+- worked a bit more on my group project, we are starting to make some progress
+- updated this week's and last week's weekly updates
+- struggled with getting python to work in vscode for class and ultimately gave up (had to use google colab instead)
+  - I've been learning python in EEB 5300, but I'll admit I'm not the biggest fan since I'm so used to R
+
+

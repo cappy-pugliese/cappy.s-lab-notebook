@@ -16,10 +16,31 @@ header-includes:
 - got sick, did not get much done
 - it's been a while since I've done a weekly update since I've been swamped with a lot of work lately and haven't been able to keep up
 
-### This week
-## Monday 3/31
+### This week (3/31 - 4/4)
+#### Monday 3/31
 - started working on my group project for Jill's genomics class
 - sent a bunch of class emails
 - did collections tour training for bio 1108
 - very briefly checked in on my xanadu lab directory since it has been a while
   - slightly reorganized some stuff to make things easier to navigate
+  
+#### Tuesday 4/1
+- individual lab meeting: 
+  - talked about making a script going from bams to gvcf
+  - talked about using GATK
+  - talked about advisor committee meeting and date planning
+- started making a script to get gvcfs
+  - tested it out with just one sample and it ran
+  - next step is to make a script to run multiple samples
+- sent scheduling email out to pick advisor committee meeting time
+
+#### Wednesday 4/2
+- did a lot of prep to prepare myself for running the collections tours
+- also a lot of preparing for class that day
+
+#### Thursday 4/3 & Friday 4/4
+- successfully did the collections tours with my classes
+- spent a lot of time working on the EEB 5300 lab for that week
+
+
+
