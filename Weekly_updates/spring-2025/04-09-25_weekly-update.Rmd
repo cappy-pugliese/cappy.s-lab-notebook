@@ -36,5 +36,3 @@ header-includes:
 - updated this week's and last week's weekly updates
 - struggled with getting python to work in vscode for class and ultimately gave up (had to use google colab instead)
   - I've been learning python in EEB 5300, but I'll admit I'm not the biggest fan since I'm so used to R
-
-

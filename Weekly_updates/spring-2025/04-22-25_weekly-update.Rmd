@@ -1,0 +1,37 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "4/14 - 4/25"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### Last week (4/14 - 4/18)
+- practiced presenting for advisory committee during lab meeting and got some feedback
+- revised committee powerpoint and re-read some of the papers
+- started grading for bio 1108
+- recorded my teaching to do peer feedback for GRAD 6000
+
+### This week (4/21-4/25)
+#### Monday (4/21)
+- had advisory committee meeting
+  - went well
+  - Dan proposed also looking at temporal variation (might be too much though)
+- did some more grading for bio 1108 and wrote some quiz questions
+- sent some emails
+- checked on scripts for class
+
+#### Tuesday
+- lab meeting got cancelled
+- took the time to do lab work
+  - got caught up with my weekly updates (I've been falling a bit behind with these)
+  - test ran my haplotypecaller script with one bam file and realized I had to index it first
+  - indexed and ran a second test and it worked
+  - created an accessionlist file with all the samples that had bam files
+  - created and ran an updated haplotypecaller script for all of the bam file samples
