@@ -23,6 +23,8 @@ header-includes:
 - put the new script running and hopefully everything works out 
   - otherwise there might be something else going on or I still didn't give it enough memory
 - also did some file tidying up in my own directory
+- added project project summaries on the weekly update README file
+  - created summary for both last semester and this semester
 
   **future todos:**
     - check to make sure script ran properly and all samples generated an indexed file (.tbi - I'm assuming this is an index file, although I'm not actually sure)

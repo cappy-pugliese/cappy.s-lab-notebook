@@ -5,7 +5,7 @@ Click [here](/Weekly_updates) to see my lab notebook entries
 
 *********
 
-## Project Summaries
+## Project Progress Summaries
 
 ### 2024 Fall Semester
 
