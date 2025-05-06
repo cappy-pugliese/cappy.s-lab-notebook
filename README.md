@@ -56,9 +56,9 @@ Click [here](/Weekly_updates) to see my lab notebook entries
   
 #### Scripts
 - made some scripts to start off the pipeline from where Andrius left off
-  1. indexed bam files with samtools
-  2. generated g.vcfs with haplotypecaller
-  3. working on finishing the GATK pipeline
+  - indexed bam files with samtools
+  - generated g.vcfs with haplotypecaller
+  - working on finishing the GATK pipeline
 - downloaded some climatic data
 - added in some missing lat long location data
   - still need to work on adding in the rest
