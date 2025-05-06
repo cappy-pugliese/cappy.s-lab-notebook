@@ -1,0 +1,41 @@
+---
+title: "Weekly Update"
+author: "Cappy Pugliese"
+date: "4/28 - 5/2"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### Monday 4/28
+- worked on group project
+  - made graphs and finished up presentation
+- hosted a lab practical review session for BIO 1108
+  - did it online using microsoft teams so of course I ran into issues (I did two sessions, and both had some kind of issue)
+  - but overall the review session itself ran ok
+  
+#### Tuesday 4/29
+- spent time finishing up powerpoint for 5300 group project presentation
+- Proctored Exam 3 for BIO 1108
+- presented my group project (it went well!)
+
+#### Wednesday 4/30
+- had my last day of class for GRAD 6000 and we did a little food potluck
+- looked into downloading some climate data
+  - downloaded one dataset onto my laptop (looks like its specifically for archGIS though)
+  - downloaded bioclimatic variables from a different source onto the cluster
+  - looked into downloading data from NOAA's website, but there were a lot of different files and none of the data columns seemed to be labeled --> would have to look more into that, I'm sure the labeling info is somewhere
+  - should probably go back and look at where the Forsynthe et al. paper got their bioclimatic data from
+- checked on haplotype caller script from last week
+  - mostly everything seemed to have run properly, with a few files not quite being generated
+  - some of the files seem to be missing because of an out of mem error
+  - the script itself is still running on the cluster, so I'm also not sure if some of them are just taking a while as well. I'll need to check up on that
+  
+#### Friday 5/2
+- worked on EEB 5300 group project (we still need to submit a gitlab explaining our work for next week)
