@@ -1,9 +1,12 @@
 # Cappy's Lab Notebook
  This is my lab notebook for the Dagilis lab 💻🦇🍄
 
+---
+
 ## Project Summaries
 ### Fall Semester 2024
 
+---
 
 ### Spring Semester 2025
 
@@ -25,3 +28,5 @@
 - downloaded some climatic data
 - added in some missing lat long location data
   - still need to work on adding in the rest
+
+---
