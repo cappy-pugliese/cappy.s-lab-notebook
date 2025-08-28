@@ -1,0 +1,32 @@
+---
+title: "08-28-25_weekly-update"
+author: "Cappy Pugliese"
+date: "8/25 - 8/29"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+  **future todos from last semester:**
+    - check to make sure script ran properly and all samples generated an indexed file (.tbi - I'm assuming this is an index file, although I'm not actually sure)
+    - trouble shoot if any of the samples didn't run properly
+    - merge everything back into one folder if things do run properly
+    - can delete the test Pd_03 run from my own directory if run2 works out
+    - make the script for the next GVCF process
+
+### This week
+#### Wednesday 8/27
+- filled out my master's plan of study form
+- sent it over to Andrius to sign and need the rest of the committee to sign it as well
+
+#### Thursday 8/28
+- picking up from where I left off last semester
+- trying to figure out why script failed last time it ran
+  - looks like it might have run out of memory, but more so within the tmp directory?
+  - am rerunning it again with less bams files running at the same time (2 in parallel instead of 5), hopefully this solves the issue?
+    - it seems to be running fine so far

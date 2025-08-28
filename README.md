@@ -15,7 +15,7 @@ Click [here](/Weekly_updates) to see my lab notebook entries
 
 #### Learned how to use github
 - started making these weekly updates and pushing commits to github
-- also made my own website (took a while) using github and editted info on the lab website
+- also made my own website (took a while) using github and edited info on the lab website
 
 #### Learned how to use the cluster
 - learned how to navigate around my computer on the terminal
@@ -35,7 +35,7 @@ Click [here](/Weekly_updates) to see my lab notebook entries
 - learned how to trim sequences (bbduk)
 - learned how to align to reference
   - created sam/bam files using bwa-mem, picard, samtools
-- varient calling with mpileup and GATK pipeline
+- variant calling with mpileup and GATK pipeline
 
 
 *********
