@@ -12,12 +12,13 @@ header-includes:
   \setmainfont{Courier}
 ---
 
-  **future todos from last semester:**
-    - check to make sure script ran properly and all samples generated an indexed file (.tbi - I'm assuming this is an index file, although I'm not actually sure)
-    - trouble shoot if any of the samples didn't run properly
-    - merge everything back into one folder if things do run properly
-    - can delete the test Pd_03 run from my own directory if run2 works out
-    - make the script for the next GVCF process
+**future todos from last semester:**
+
+- check to make sure script ran properly and all samples generated an indexed file (.tbi - I'm assuming this is an index file, although I'm not actually sure)
+- trouble shoot if any of the samples didn't run properly
+- merge everything back into one folder if things do run properly
+- can delete the test Pd_03 run from my own directory if run2 works out
+- make the script for the next GVCF process
 
 ### This week
 #### Wednesday 8/27
@@ -30,3 +31,5 @@ header-includes:
   - looks like it might have run out of memory, but more so within the tmp directory?
   - am rerunning it again with less bams files running at the same time (2 in parallel instead of 5), hopefully this solves the issue?
     - it seems to be running fine so far
+    
+    
