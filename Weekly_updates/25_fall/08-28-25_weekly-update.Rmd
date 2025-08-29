@@ -32,4 +32,6 @@ header-includes:
   - am rerunning it again with less bams files running at the same time (2 in parallel instead of 5), hopefully this solves the issue?
     - it seems to be running fine so far
     
-    
+#### Friday 8/29
+- script seems to be running smoothly now
+  - still waiting for it to finish doing the rest, but it has already output about half of them without fail
