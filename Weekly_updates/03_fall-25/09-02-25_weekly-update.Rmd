@@ -1,0 +1,22 @@
+---
+title: "09-02-25_weekly-update"
+author: "Cappy Pugliese"
+date: "9/2 - 9/5"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### Weekend
+- worked on some grading for bio 1108
+- read book for grad 6001
+
+#### Tuesday
+- read book for grad 6001
+- submitted assignments for popgen
