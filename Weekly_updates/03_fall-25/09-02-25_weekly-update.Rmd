@@ -1,7 +1,7 @@
 ---
 title: "09-02-25_weekly-update"
 author: "Cappy Pugliese"
-date: "9/2 - 9/5"
+date: "9/2 - 9/12"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -12,7 +12,7 @@ header-includes:
   \setmainfont{Courier}
 ---
 
-### This week
+### This week (9/2 - 9/5)
 #### Weekend
 - worked on some grading for bio 1108
 - read book for grad 6001
@@ -27,8 +27,18 @@ header-includes:
 - created a new script to run the rest of the missing files
 - put it running
 
-### Monday
+### Week 2 (9/8 - 9/12)
+#### Monday
 - everything worked, except for a handful of files
   - those files did not exist in the bam folder to begin with so it couldn't work anyway
   - unsure what to do about the missing files
+- lab meeting, stuff to do for next week:
+  - finish running the data
+  - genomics dv
+  - data analysis with pixy or pcangst
+  - vcfr for figures
+  - start playing around with the data
+  - maybe build a tree out of the data
+  
+  
   
