@@ -20,3 +20,14 @@ header-includes:
 #### Tuesday
 - read book for grad 6001
 - submitted assignments for popgen
+
+#### Friday
+- it worked, but I realized there was actually more missing than I originally thought
+- merged the ones that did run into the folder with the others
+- created a new script to run the rest of the missing files
+- put it running
+
+### Monday
+- everything worked, except for a handful of files
+  - those files did not exist in the bam folder to begin with so it couldn't work anyway
+  - unsure what to do about the missing files
