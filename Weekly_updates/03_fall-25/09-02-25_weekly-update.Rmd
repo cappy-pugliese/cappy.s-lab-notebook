@@ -40,5 +40,18 @@ header-includes:
   - start playing around with the data
   - maybe build a tree out of the data
   
+#### Tues-Thurs
+- had some difficulties getting the consolidate gvcfs script to work
+- needed an interval list, which I needed to create
+- was eventually able to figure it out and put the script running
+- script worked and generated a genomicsDBI workspace
+
+#### Friday
+- made script for the joint-calling step
+- put it running
+- failed at first, had to trouble shoot (there was a typo)
+- successfully ran
+- put another one going specifiying ploidy = 1
+  
   
   
