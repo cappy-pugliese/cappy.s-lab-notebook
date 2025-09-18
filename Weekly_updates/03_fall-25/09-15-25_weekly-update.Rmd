@@ -1,0 +1,25 @@
+---
+title: "09-15-25_weekly-update"
+author: "Cappy Pugliese"
+date: "9/15 - 9/19"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### Monday
+- now have vcf files
+- need to do some filtering
+  - run qc analysis first (vcfr/bcftools stats)
+- ran bcftools-stats on the vcf file
+  - was able to use the plot-vcfstats tool to generate some plots of the data (it took me a while to figure out how to view the plots but they were right in front of my face after running the plot.py code)
+  
+#### Tuesday
+- ran the same bcftools-stats/plot-vcfstats on the vcf file that was generated with ploidy = 1
+  - downloaded to mac but have yet to run the plots
