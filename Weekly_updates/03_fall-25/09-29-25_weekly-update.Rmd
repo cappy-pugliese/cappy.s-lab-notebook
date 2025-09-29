@@ -1,0 +1,24 @@
+---
+title: "09-29-25_weekly-update"
+author: "Cappy Pugliese"
+date: "9/29 - 10/3"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+#### Monday
+- one on one lab meeting was short so I can work on getting some more wns project stuff done
+- goal is to get a PCAngsd output by Thursday
+  - need to generate a plink file first
+- created a plink script for vcf
+  - ran through parameters with Andrius
+  - went to go run script on the cluster but I cannot log into the cluster
+  - it seems the submit node might be down? I'll have to run it later
+- while cluster was down, created pcangsd script to run after the plink script

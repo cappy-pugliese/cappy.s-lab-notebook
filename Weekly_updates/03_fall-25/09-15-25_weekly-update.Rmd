@@ -12,7 +12,7 @@ header-includes:
   \setmainfont{Courier}
 ---
 
-### This week
+### This week (9/15 - 9/19)
 #### Monday
 - now have vcf files
 - need to do some filtering
@@ -23,3 +23,7 @@ header-includes:
 #### Tuesday
 - ran the same bcftools-stats/plot-vcfstats on the vcf file that was generated with ploidy = 1
   - downloaded to mac but have yet to run the plots
+
+
+### Week after (9/22 - 9/26)
+- was a bit busy doing other work
