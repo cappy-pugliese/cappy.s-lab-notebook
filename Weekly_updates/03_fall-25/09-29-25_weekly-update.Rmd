@@ -22,3 +22,9 @@ header-includes:
   - went to go run script on the cluster but I cannot log into the cluster
   - it seems the submit node might be down? I'll have to run it later
 - while cluster was down, created pcangsd script to run after the plink script
+- was able to run plink script when cluster was back up
+  - ran into some difficulties running pcansd (trouble getting module to run)
+
+#### Wednesday
+- finally got pcangsd running after Andrius's help (ish)
+- forgot to add python to the module list, but now pcangsd is having trouble loading in numpty for some reason (and possibly other dependencies??)
