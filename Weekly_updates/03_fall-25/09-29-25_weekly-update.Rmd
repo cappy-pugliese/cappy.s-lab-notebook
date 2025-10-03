@@ -28,3 +28,12 @@ header-includes:
 #### Wednesday
 - finally got pcangsd running after Andrius's help (ish)
 - forgot to add python to the module list, but now pcangsd is having trouble loading in numpty for some reason (and possibly other dependencies??)
+  - might need to use a conda environment to run it properly
+
+#### Thursday
+- tried troubleshooting getting pcangsd to run again
+- created conda environment and ran into a bunch of different errors
+  - had to unload python module from environment (I think it was making things funky)
+  - got an error about "SRE module mismatch"
+    - pcangsd and pip possibly using different versions of python??
+    - need to fix somehow??
