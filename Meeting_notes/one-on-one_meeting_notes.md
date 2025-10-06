@@ -56,3 +56,21 @@ chmod 770 \[file/directory\] –\> will grant permissions to Andrius as well (an
 -   results so far are showing genetic variability
 
 before thursday: - send pca plot or some ancestry file that it produces
+
+------------------------------------------------------------------------
+
+## 10-06-25
+
+-   make bin and add to paths
+
+-   will need to source .bashrc for scripts
+
+-   destructans data
+
+    -   population structure (pcangsd)
+
+        -   if there is population structure –\> can run fiends(?)
+
+        -   smc++ for demographics
+
+-   no class at all this week
