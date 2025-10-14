@@ -74,3 +74,24 @@ before thursday: - send pca plot or some ancestry file that it produces
         -   smc++ for demographics
 
 -   no class at all this week
+
+------------------------------------------------------------------------
+
+## 10-14-25
+- rerun pcangsd with admix option
+- run pixy without Fst
+- meet thurs after lab
+- focus on getting lat and long of all the individs
+- run ld pruned at some point --> plink's ld pruning
+    - specific option, `indep-pairwise`
+    - default: 10kb step size: 500/1,000
+    - r^2 threashold, anything above .5
+    https://www.cog-genomics.org/plink/1.9/ld
+
+different packages:
+- aligtr
+    - pipeline focused on conservation
+    - but want to know similar things
+    - need to add in specific coordinates
+
+for friday compare what we find to what the other papers found
