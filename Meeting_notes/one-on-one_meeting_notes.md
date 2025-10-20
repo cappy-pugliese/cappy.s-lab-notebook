@@ -129,7 +129,7 @@ for friday compare what we find to what the other papers found
 
 -   plan for committee meeting in spring
 
----
+------------------------------------------------------------------------
 
 ## 10-20-25
 
