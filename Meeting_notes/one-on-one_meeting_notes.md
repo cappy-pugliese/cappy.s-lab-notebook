@@ -78,20 +78,117 @@ before thursday: - send pca plot or some ancestry file that it produces
 ------------------------------------------------------------------------
 
 ## 10-14-25
-- rerun pcangsd with admix option
-- run pixy without Fst
-- meet thurs after lab
-- focus on getting lat and long of all the individs
-- run ld pruned at some point --> plink's ld pruning
-    - specific option, `indep-pairwise`
-    - default: 10kb step size: 500/1,000
-    - r^2 threashold, anything above .5
-    https://www.cog-genomics.org/plink/1.9/ld
+
+-   [x] rerun pcangsd with admix option
+
+-   run pixy without Fst
+
+-   meet thurs after lab
+
+-   focus on getting lat and long of all the individs
+
+-   [x] run ld pruned at some point --\> plink's ld pruning
+
+    -   specific option, `indep-pairwise`
+
+    -   default: 10kb step size: 500/1,000
+
+    -   r\^2 threashold, anything above .5
+
+    -   https://www.cog-genomics.org/plink/1.9/ld
 
 different packages:
-- aligtr
-    - pipeline focused on conservation
-    - but want to know similar things
-    - need to add in specific coordinates
+
+-   aligtr
+
+    -   pipeline focused on conservation
+
+    -   but want to know similar things
+
+    -   need to add in specific coordinates
 
 for friday compare what we find to what the other papers found
+
+-   future directions:
+
+    -   run phylogeny analyses - iqtree
+
+        -   split into smaller windows
+
+        -   into astral to calculate species tree
+
+    -   LDK analysis
+
+    -   plink calculations
+
+    -   pixy
+
+        -   pi, fst
+
+        -   maybe some selection stuff
+
+-   plan for committee meeting in spring
+
+---
+
+## 10-20-25
+
+-   metadata table
+
+    -   sample_id, SRA, source, location (Country, state, lat, long), major ancestry (\>50%) from pcangsd
+
+    -   major ancestry
+
+        -   apply(matrix, 1, funciton(x) –\> which (x\>0.5) )
+
+-   iqtree
+
+    -   need to download refseq data from ref genome
+
+    -   dont run something on under 100kb chromosomes
+
+    -   sent scripts over slack
+
+        -   one of the scripts is wonky
+
+            -   windows too big? –\> needs to run on at least two windows, but some of the scaffolds are too small)
+
+            -   use updated version of script –\> edited it in slack
+
+                -   dont forget to module load iqtree3
+
+        -   change scripts to work with newer version of iqtree
+
+        -   can change around slurm parameters
+
+        -   make sure output directory exists
+
+        -   might need to index vcf (if there's a .tbi then i'm fine)
+
+    -   vcf filters
+
+        -   biallelic snps
+
+        -   -m2
+
+        -   -M2
+
+        -   -v 'snps'
+
+        -   -i 'MAF\>0.05'
+
+        -   -i'GQ\>20'
+
+    -   plink did filter vcf, but does not output an actual vcf
+
+        -   maybe redo plink & pcangsd on same filtered vcf that I will be using for iqtree
+
+    -   will eventually use astral4 (ASTER)
+
+        -   overall estimator of phylogenetic tree
+
+        -   has an actual console can use to look at trees
+
+            -   will eventually need to concatinate all of the files astral4 generates
+
+            -   and use that file to generate trees
