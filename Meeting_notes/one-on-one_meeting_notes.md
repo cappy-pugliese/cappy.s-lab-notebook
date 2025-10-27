@@ -192,3 +192,19 @@ for friday compare what we find to what the other papers found
             -   will eventually need to concatinate all of the files astral4 generates
 
             -   and use that file to generate trees
+
+------------------------------------------------------------------------
+
+## 10-23-25
+
+-   will need to use plink 2 with the scripts (will need to download plink 2)
+
+-   window use 10kb
+
+## 10-27-25
+
+--mimd
+
+-   need about 25%, so things don't mess up down the line
+
+-   for plink 2

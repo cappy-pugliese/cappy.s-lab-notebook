@@ -51,3 +51,29 @@ https://clauswilke.com/dataviz/ - look more into the geospacial data - choroplet
     -   ignore cartograms, skip projections
 
     -   look at code for graphs on the github
+
+------------------------------------------------------------------------
+
+## 10-24-25
+
+-   colorblindr package for R –\> lets you test your figure with various colorblindnesses
+
+-   mapping data
+
+    -   sf package for R
+
+    -   ggmap
+
+        -   geom points will plot in lat long on the map
+
+    -   world clim
+
+        -   seconds –\> how far apart their data points are (30 secs = lot more data)
+
+    -   getting the map
+
+        -   packages
+
+            -   maps
+
+            -   r open street map package

@@ -1,0 +1,31 @@
+---
+title: "10-27-25_weekly-update"
+author: "Cappy Pugliese"
+date: "10/3 - 10/27"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+Lowkey forgot about the weekly updates, so I'll try to recap all that I've done since my last update.
+
+### Previous weeks
+- finally got conda environment to work and got pcangsd running
+- was able to find some more metadata for my pd location table, still need to fill in the lat/longs for most of the data
+- made a new filtered vcf to work with
+- indexed new filtered vcf
+- downloaded plink 2.0 and Dsuite (popgen) to cluster
+- started looking at Andrius's script that I need to run for iqtree
+
+### This week
+#### Monday
+- working on getting scripts up and running for iqtree
+- copied vcf2phylip.py to my bin
+- went to go load in bcftools and realized I have used more than one version of it in my past scripts
+  - tried to go back and fix my old scripts so they ran on the most recent version, but was running into errors
+  - gave up on redo-ing scripts --> probably not worth the waste of time anyways, but something to keep in mind later down the line
