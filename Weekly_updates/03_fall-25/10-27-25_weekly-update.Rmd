@@ -17,6 +17,7 @@ Lowkey forgot about the weekly updates, so I'll try to recap all that I've done 
 ### Previous weeks
 - finally got conda environment to work and got pcangsd running
 - was able to find some more metadata for my pd location table, still need to fill in the lat/longs for most of the data
+- made pcansd graphs and presented them during lab meeting
 - made a new filtered vcf to work with
 - indexed new filtered vcf
 - downloaded plink 2.0 and Dsuite (popgen) to cluster
@@ -29,3 +30,11 @@ Lowkey forgot about the weekly updates, so I'll try to recap all that I've done 
 - went to go load in bcftools and realized I have used more than one version of it in my past scripts
   - tried to go back and fix my old scripts so they ran on the most recent version, but was running into errors
   - gave up on redo-ing scripts --> probably not worth the waste of time anyways, but something to keep in mind later down the line
+- got script running
+  - gave some trouble at first, realized I forgot to specify window size
+- working on making individual scripts by running pipe2slurm
+
+
+Future todos:
+- get github set up for cluster version of scripts
+- get pipe to slurm running
