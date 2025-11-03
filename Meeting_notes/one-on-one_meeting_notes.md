@@ -208,3 +208,13 @@ for friday compare what we find to what the other papers found
 -   need about 25%, so things don't mess up down the line
 
 -   for plink 2
+
+## 11-03-25
+
+-   can use ggtree to visualize trees in R
+
+    -   <https://yulab-smu.top/treedata-book/chapter7.html>
+
+-   FEEMS –\> all built in python
+
+-   ALGATR –\> all built in R, needs lat long data

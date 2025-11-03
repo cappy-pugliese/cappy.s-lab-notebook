@@ -24,7 +24,7 @@ Lowkey forgot about the weekly updates, so I'll try to recap all that I've done 
 - started looking at Andrius's script that I need to run for iqtree
 
 ### This week
-#### Monday
+#### Monday (10/27)
 - working on getting scripts up and running for iqtree
 - copied vcf2phylip.py to my bin
 - went to go load in bcftools and realized I have used more than one version of it in my past scripts
@@ -38,3 +38,10 @@ Lowkey forgot about the weekly updates, so I'll try to recap all that I've done 
 Future todos:
 - get github set up for cluster version of scripts
 - get pipe to slurm running
+
+#### Thursday (10/30)
+- tested out iqtree command to see if it works before running pipe2slurm
+  - it couldn't find the index file (only gave it the vcf to work with)
+  - tried a little bit to troubleshoot, but gave up and sent a slack message to Andrius
+  - waiting to hear back response, so I'm going to work on finding location data now
+    - ok I'm adding to the metadata and I am now discovering that some of these samples are not P. destructans but a very closely related species. Which would probably mess up the population structure analysis. probably.
