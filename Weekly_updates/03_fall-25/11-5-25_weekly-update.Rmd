@@ -1,0 +1,41 @@
+---
+title: "11-5-25_weekly-update"
+author: "Cappy Pugliese"
+date: "11/3 - 11/7"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week
+
+#### Monday (11/3)
+
+-   ran test iqtree script, worked perfectly fine
+-   was able to use seff to figure out how many cores and how much mem I should ask for
+-   reran pipe_to_slurm with these new constraints
+-   briefly tried to reorganize some of the output, but it was too much to do it all by hand so I stopped
+    -   tried to run a couple of the iqtree scripts at the same time
+    -   once I figured out how to run them, put them running but they all quit very quickly
+
+#### Wednesday (11/5)
+
+-   realized I didn't have a specified log folder so the scripts were quitting before they could run
+-   trying to make changes so I can run them with parallel instead of running them all at the same time
+-   I was able to run them with parallel, but they still all ran at the same time??? Not sure why. Kind of defeats the whole purpose of doing that.
+-   6/10 of the runs failed with some weird error. Was not able to find solution for the error online. Other people had the same question but neither had been answered.
+
+```{bash}
+ERROR: modelfactory.cpp:1131: virtual bool ModelFactory::initFromNestedModel(std::map<std::__cxx11::basic_string<char>, std::vector<std::__cxx11::basic_string<char> > >): Assertion `itr != checkpoint->end()' failed.
+ERROR: STACK TRACE FOR DEBUGGING:
+ERROR: 
+ERROR: *** IQ-TREE CRASHES WITH SIGNAL ABORTED
+ERROR: *** For bug report please send to developers:
+ERROR: ***    Log file: NW_020167520.1_1_wnd10000.log
+ERROR: ***    Alignment files (if possible)
+```
