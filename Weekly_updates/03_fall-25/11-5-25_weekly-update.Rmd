@@ -39,3 +39,9 @@ ERROR: *** For bug report please send to developers:
 ERROR: ***    Log file: NW_020167520.1_1_wnd10000.log
 ERROR: ***    Alignment files (if possible)
 ```
+
+### Thursday (11/6)
+
+-   tried to briefly troubleshoot iqtree, with no luck
+
+-   tried to get some more lat-long data points, didn't get super far because I had to jump down a lot of rabbit holes

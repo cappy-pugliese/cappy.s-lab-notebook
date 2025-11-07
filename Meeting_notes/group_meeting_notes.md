@@ -77,3 +77,19 @@ https://clauswilke.com/dataviz/ - look more into the geospacial data - choroplet
             -   maps
 
             -   r open street map package
+
+## 11-7-25
+
+-   keep track of all the papers I read, with some brief notes
+
+-   use citation manager (refworks??)
+
+-   go back and reread/reskim papers after a week
+
+    -   might have different thoughts and insights after returning to the paper
+
+    -   only do for papers that are important to project
+
+-   keeping track of where your ideas came from, if they came from a paper
+
+-   keep backups of your work –\> hard drive (bio1108 pwpts)
