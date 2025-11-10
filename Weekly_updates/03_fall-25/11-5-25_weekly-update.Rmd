@@ -45,3 +45,7 @@ ERROR: ***    Alignment files (if possible)
 -   tried to briefly troubleshoot iqtree, with no luck
 
 -   tried to get some more lat-long data points, didn't get super far because I had to jump down a lot of rabbit holes
+
+### Friday (11/7)
+
+-   took Andrius's advice and started annotating some of the sources I had found with zotero
