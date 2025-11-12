@@ -218,3 +218,21 @@ for friday compare what we find to what the other papers found
 -   FEEMS –\> all built in python
 
 -   ALGATR –\> all built in R, needs lat long data
+
+## 11-11-25
+
+for iqtree issue
+
+-   try running on bigger windows
+
+-   checkpoint time –\> set it to an hour if checkpoints are breaking
+
+-   keep redo flags –\> don't start from a checkpoint
+
+-   might be file write issues
+
+-   try whole genome analysis
+
+    -   plink make a whole chromosome
+
+    -   maybe not the greatest method
