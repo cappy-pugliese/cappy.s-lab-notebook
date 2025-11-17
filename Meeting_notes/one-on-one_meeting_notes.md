@@ -236,3 +236,53 @@ for iqtree issue
     -   plink make a whole chromosome
 
     -   maybe not the greatest method
+
+11-17-25
+
+-   need to defend before like may 15?
+
+-   start of may possibly
+
+-   to include in paper
+
+    -   pca
+
+    -   structure
+
+    -   pi across the genome
+
+        -   and for each ancestry
+
+        -   try running with pixy
+
+        -   or piawka (runs on vcf directly)
+
+        -   or some R package (i.e. popgenme)
+
+    -   differentiation between populations
+
+        -   dxy and Fst
+
+        -   same package as pi
+
+    -   dN/ds –\> will need an outgroup
+
+        -   run with PAML
+
+    -   trees
+
+        -   iqtree and ASTRAL-IV
+
+    -   need lat longs
+
+        -   FEEMS
+
+            -   will likely take a while
+
+            -   need to use python
+
+        -   tess
+
+            -   will be in source code for class 11/18
+
+        -   aligatr

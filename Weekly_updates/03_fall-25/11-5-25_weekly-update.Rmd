@@ -57,3 +57,11 @@ ERROR: ***    Alignment files (if possible)
 #### Monday (11/10)
 
 -   annotated some more sources
+
+#### Thurs (11/13)
+
+-   tried to rerun iqtree (briefly) but ran into issue - need to fix
+
+-   added new pcangsd graph that groups the data a bit better
+
+-   finished up my short assignment 2
