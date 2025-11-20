@@ -93,3 +93,11 @@ https://clauswilke.com/dataviz/ - look more into the geospacial data - choroplet
 -   keeping track of where your ideas came from, if they came from a paper
 
 -   keep backups of your work –\> hard drive (bio1108 pwpts)
+
+## class figure notes
+
+-   admixture plot, get rid of x-axis, or only label/highlight certain individuals
+
+    -   x-axis is too busy
+
+-   try to move away from the r figure defaults

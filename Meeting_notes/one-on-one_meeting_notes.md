@@ -69,7 +69,7 @@ before thursday: - send pca plot or some ancestry file that it produces
 
     -   population structure (pcangsd)
 
-        -   if there is population structure –\> can run fiends(?)
+        -   if there is population structure –\> can run fiends(?) (FEEMS???)
 
         -   smc++ for demographics
 
