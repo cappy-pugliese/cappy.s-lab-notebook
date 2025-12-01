@@ -65,3 +65,27 @@ ERROR: ***    Alignment files (if possible)
 -   added new pcangsd graph that groups the data a bit better
 
 -   finished up my short assignment 2
+
+------------------------------------------------------------------------
+
+### Week 11/17-11/26
+
+I have been forgetting to write down the things I've been doing, whoops
+
+#### Monday (11/17)
+
+-   looks like I did a lot
+
+-   I trouble-shooted iqtree and finally got it to work
+
+    -   I switched the version of iqtree to version 2.2.2 and ran into no issues
+
+    -   It looked like it was an issue with the newest version of iqtree itself
+
+-   unsure what I did the rest of the week
+
+#### Monday & Weds (11/24 & 11/26)
+
+-   worked on getting the lat/long metadata
+
+-   finished getting all of the lat/long metadata (may not be the most precise, but I tried my best)

@@ -101,3 +101,5 @@ https://clauswilke.com/dataviz/ - look more into the geospacial data - choroplet
     -   x-axis is too busy
 
 -   try to move away from the r figure defaults
+
+------------------------------------------------------------------------
