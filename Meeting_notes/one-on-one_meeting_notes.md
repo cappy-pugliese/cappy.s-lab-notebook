@@ -237,7 +237,7 @@ for iqtree issue
 
     -   maybe not the greatest method
 
-11-17-25
+## 11-17-25
 
 -   need to defend before like may 15?
 
@@ -286,3 +286,35 @@ for iqtree issue
             -   will be in source code for class 11/18
 
         -   aligatr
+
+    ------------------------------------------------------------------------
+
+    ## 12-02-25
+
+-   finished lat/long collection
+
+-   finally got iqtree to work, had to use an older version
+
+    -   still need to put the rest of it running
+
+-   instead of TAing next semester: do some cetl courses
+
+-   Next steps: aligatr
+
+    -   exclude European samples
+
+    -   Only focus on North America
+
+    -   Exclude out group species
+
+-   Run iqtree in arrays
+
+    -   Specify the number to run at a time
+
+    -   Slurm array submission (—array)
+
+-   Bcftools view -S (all the samples you want to keep)
+
+    -   for reruning pcangsd
+
+    -   Can also drop low quality samples

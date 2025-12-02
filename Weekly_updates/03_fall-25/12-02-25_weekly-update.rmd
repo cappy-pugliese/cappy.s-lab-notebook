@@ -1,0 +1,23 @@
+---
+title: "12-02-25 weekly update"
+author: "Cappy Pugliese"
+date: "11/3 - 11/7"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+### This week 12/01 - 12/05
+
+#### Monday (12/01)
+
+-   started to redo pcangsd without non-pd samples
+
+    -   started rerunning the vcf making process
+
+    -   turns out I didn't need to do that lol

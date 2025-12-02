@@ -78,7 +78,7 @@ https://clauswilke.com/dataviz/ - look more into the geospacial data - choroplet
 
             -   r open street map package
 
-## 11-7-25
+## 11-07-25
 
 -   keep track of all the papers I read, with some brief notes
 
