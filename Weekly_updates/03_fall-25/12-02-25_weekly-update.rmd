@@ -21,3 +21,15 @@ header-includes:
     -   started rerunning the vcf making process
 
     -   turns out I didn't need to do that lol
+
+### Tuesday (12/02)
+
+-   new vcf without non-pd samples had finished running
+
+    -   doing some bcftools stats analysis
+
+    -   going a little bit more in depth than last time because I'm trying to figure out what the results mean myself
+
+    -   found a [script](https://mubashir3164.github.io/tutorials/vcf_analysis_tutorial.html) to help with analyzing the vcf, courtesy of [Mubashir Abbas](https://github.com/Mubashir3164) on github
+
+        -   running the script does take a little bit, and I did not realize it also needed vcftools in addition to bcftools at first
