@@ -33,3 +33,11 @@ header-includes:
     -   found a [script](https://mubashir3164.github.io/tutorials/vcf_analysis_tutorial.html) to help with analyzing the vcf, courtesy of [Mubashir Abbas](https://github.com/Mubashir3164) on github
 
         -   running the script does take a little bit, and I did not realize it also needed vcftools in addition to bcftools at first
+
+### Thursday (12/04)
+
+-   edited stats script and played around with it a bit, also put it running
+
+-   put a filtering script running for the new vcf
+
+-   put a plink script running for the new vcf
