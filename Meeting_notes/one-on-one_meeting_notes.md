@@ -318,3 +318,15 @@ for iqtree issue
     -   for reruning pcangsd
 
     -   Can also drop low quality samples
+
+------------------------------------------------------------------------
+
+## 12/08/25
+
+-   run pcansd on n american samples
+
+-   Run tess and aligatr (try to include in project)
+
+-   finish running iqtree
+
+-   run feems??

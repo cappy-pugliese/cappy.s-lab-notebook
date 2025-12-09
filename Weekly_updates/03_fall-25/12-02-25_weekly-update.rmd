@@ -12,9 +12,9 @@ header-includes:
   \setmainfont{Courier}
 ---
 
-### This week 12/01 - 12/05
+## This week 12/01 - 12/05
 
-#### Monday (12/01)
+### Monday (12/01)
 
 -   started to redo pcangsd without non-pd samples
 
@@ -41,3 +41,29 @@ header-includes:
 -   put a filtering script running for the new vcf
 
 -   put a plink script running for the new vcf
+
+## Following week 12/07-12/12
+
+### Sunday (12/07)
+
+-   looked back at stats output
+
+-   plink had run into an error, had to fix
+
+    -   something was wrong with the ld prunning
+
+    -   just took that option out entirely
+
+-   reran plink without any issues
+
+-   put pcangsd running for pd only samples
+
+-   made new pcangsd graphs (had to use a different color scheme because there were too many sub pops)
+
+-   started the process for making pcansd graphs for only north american pd samples
+
+    -   used bcftools view -S this time around instead of redoing everything
+
+    -   used the ploidy-1 vcf (although the vcfs look pretty much the same???? file size and stats-wise)
+
+    -   filtered vcf using the same settings as all the others
