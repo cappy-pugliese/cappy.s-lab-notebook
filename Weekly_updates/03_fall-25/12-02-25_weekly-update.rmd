@@ -91,3 +91,5 @@ header-includes:
     -   added to results section and wrote discussion and broader analysis sections
 
 -   Met Max over zoom and talked to him about the lab and grad school
+
+-   submitted popgen final project
