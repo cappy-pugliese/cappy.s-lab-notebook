@@ -81,3 +81,13 @@ header-includes:
 -   worked on editing the pcangsd graphs for popgen project
 
     -   spent a while trying to make a better color palette to see all the differences better
+
+### Wednesday (12/10)
+
+-   finished up popgen project
+
+    -   ended up making one more set of pcangsd graphs
+
+    -   added to results section and wrote discussion and broader analysis sections
+
+-   Met Max over zoom and talked to him about the lab and grad school
