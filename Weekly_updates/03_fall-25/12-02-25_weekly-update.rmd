@@ -67,3 +67,17 @@ header-includes:
     -   used the ploidy-1 vcf (although the vcfs look pretty much the same???? file size and stats-wise)
 
     -   filtered vcf using the same settings as all the others
+
+### Monday (12/08)
+
+-   ran pcangsd for the north american pd samples
+
+-   made the dataframes for the pcangsd graphs
+
+-   made the pcangsd graphs, and tried to make them a bit better
+
+### Tuesday (12/09)
+
+-   worked on editing the pcangsd graphs for popgen project
+
+    -   spent a while trying to make a better color palette to see all the differences better
