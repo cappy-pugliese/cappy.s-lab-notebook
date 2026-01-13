@@ -1,0 +1,28 @@
+---
+title: "12-02-25 weekly update"
+author: "Cappy Pugliese"
+date: "11/3 - 11/7"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+## This week 1/12 - 1/16
+
+### Monday (1/12)
+- Looked into getting my account set up on Mantis
+- Was able to successfully log in and all of my directories are still the same as they were on xanadu
+
+### Tuesday (1/13)
+- Trying to get back into the swing of things
+
+
+tuesday plans
+- figure out where i left off
+- write a markdown summary for what i did in the fall
+- figure out my next steps
