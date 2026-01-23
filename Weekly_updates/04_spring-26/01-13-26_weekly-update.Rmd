@@ -76,3 +76,12 @@ todos:
   - marked important dates on my calendar
   - have some questions, I want to try to avoid graduating late if possible, mainly because I don't know what that entails
   - potentially want to talk to Elizabeth about it, since she would be very knowledgable about this stuff
+
+### Friday (1/23)
+- learned how to use slurm arrays on the cluster
+  - had to troubleshoot getting the arrays to work with the code I already had
+  - took quite a bit of time
+
+todos:
+- need to edit the scripts to get rid of the slurm headers in order for them to work with the slurm array
+  - edit the pipe2slurm script to turn them into .sh (no slurm headers) instead of .sbatch
