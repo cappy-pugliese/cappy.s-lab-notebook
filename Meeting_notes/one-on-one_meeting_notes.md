@@ -1,5 +1,7 @@
 # One on one meeting notes
 
+# Fall 2025
+
 ## 09-15-25
 
 -   run vcfr / qc analysis on vcf file
@@ -321,7 +323,7 @@ for iqtree issue
 
 ------------------------------------------------------------------------
 
-## 12/08/25
+## 12-08-25
 
 -   run pcansd on n american samples
 
@@ -330,3 +332,57 @@ for iqtree issue
 -   finish running iqtree
 
 -   run feems??
+
+------------------------------------------------------------------------
+
+# Spring 2026
+
+## 01-20-26
+
+-   andrius out of country: april 6th - 28th
+
+-   dan gone most of april
+
+-   may 22 –\> last day for degree audit
+
+-   defense in may
+
+    -   post may 5th before may 10th
+
+    -   have master's thesis 4-5 weeks
+
+    -   end of march, start of april
+
+    -   doesn't have to be final final version
+
+-   paper
+
+    -   work on methods
+
+    -   introduction
+
+-   virtual evolution lunch
+
+-   monday 11am virtual
+
+-   continue working on algatr
+
+-   put iqtree running in the background
+
+------------------------------------------------------------------------
+
+## 01-22-26
+
+-   fine to share very rough writing
+
+For next meeting??
+
+-   Was looking at dates:
+
+    -   do you think it would be possible to defend end of march / early april??
+
+    -   and then spend the rest of april focusing on finishing/revising my thesis?
+
+        -   for spring graduation, need to submit thesis by the 24th
+
+    -   talk to Elizabeth to see what she thinks??

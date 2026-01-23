@@ -21,3 +21,58 @@ header-includes:
 ### Tuesday (1/13)
 - Trying to get back into the swing of things
 - Added a summary of what I did in the fall to the readme for this github
+
+### Wednesday (1/14)
+- installed algatr package in r
+  - took a whiiiiiiiile
+  - had to update like a thousand other things in the process
+
+### Thursday (1/15)
+- tried following along with the algatr tutorial
+  - something funky was going on
+  - figured I should probably finally try updating R in case that was the problem
+- updated R to newest update
+- had to move all my old R libraries to the new R version directory
+- unfortunately that was not what was wrong
+  - was able to get it to work
+  - had to update the dependencies (again)
+- read through the algatr tutorial and started preparing files
+  - made a coordinate file to work with algatr
+  - downloaded vcf file from cluster
+
+### Friday (1/16)
+- trying to get the spacial data in R
+- following along with some tutorials
+  - https://ouicodedata.com/posts/worldclim-with-r/
+  - https://wec.wur.nl/r/spatial/raster-data.html
+- tried doing a bunch of spacial stuff in R
+
+-----
+
+## Week 1/20 - 1/23
+
+### Tuesday (1/20)
+- did more algatr stuff
+- finally was able to get the map raster file
+- did pca for the bioclimatic variables, but not 100 percent sure if i did it right, I didn't really know what I was doing
+- was able to add points to the map
+- tested out the "do everything" command, but got an error
+
+todos:
+- double check login on Storrs HPC cluster
+- algatr stuff
+
+### Wednesday (1/21)
+- made sure storrs hpc account was still working
+  - had to download cisco secure to use the UConn vpn
+- looked a little bit at the master's thesis timeline on UConn's website
+  - seems like it might be pretty simple to push completion date into the summer a bit
+- starting to look into using slurm arrays to try and use that for all the iqtree jobs
+- finally got around to backing up all of my code from the cluster onto github
+  - took an insanely long time because I was having trouble connecting my github to the cluster
+
+### Thursday (1/22)
+- looked at dates and stuff for master's thesis and graduation
+  - marked important dates on my calendar
+  - have some questions, I want to try to avoid graduating late if possible, mainly because I don't know what that entails
+  - potentially want to talk to Elizabeth about it, since she would be very knowledgable about this stuff
