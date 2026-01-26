@@ -12,10 +12,19 @@ header-includes:
   \setmainfont{Courier}
 ---
 
-## This week 1/12 - 1/16
+## This week 1/26 - 1/30
 
 todos:
 - need to edit the scripts to get rid of the slurm headers in order for them to work with the slurm array
   - edit the pipe2slurm script to turn them into .sh (no slurm headers) instead of .sbatch
 
 - focus on algatr
+
+### Monday (1/26)
+- looked through algatr stuff again
+  - discovered that the `do_everything_for_me()` code I had tried to use last time failed because the vector memory limit of my laptop had been reached, so if I want to test everything out, I'd probably need to do it on the cluster
+  - decided to go through the TESS vignette portion of the tutorial
+    - recommended ld pruning my vcf
+    - tried to ld prune using the algatr software but was having difficulty
+    - decided to try to ld prune using plink instead and output a new vcf
+      - transferred ld pruned vcf file onto my laptop from cluster
