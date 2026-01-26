@@ -1,0 +1,21 @@
+---
+title: "01-26-26 weekly update"
+author: "Cappy Pugliese"
+date: "1/26 - 1/30"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+## This week 1/12 - 1/16
+
+todos:
+- need to edit the scripts to get rid of the slurm headers in order for them to work with the slurm array
+  - edit the pipe2slurm script to turn them into .sh (no slurm headers) instead of .sbatch
+
+- focus on algatr

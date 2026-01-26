@@ -386,3 +386,9 @@ For next meeting??
         -   for spring graduation, need to submit thesis by the 24th
 
     -   talk to Elizabeth to see what she thinks??
+
+## 01-26-26
+
+-   focus on algatr
+-   early defense might be too much
+    -   have to finish writing thesis by then as well

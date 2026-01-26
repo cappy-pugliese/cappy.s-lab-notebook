@@ -1,7 +1,7 @@
 ---
 title: "12-02-25 weekly update"
 author: "Cappy Pugliese"
-date: "11/3 - 11/7"
+date: "12/1 - 12/10"
 output: 
   pdf_document:
     latex_engine: xelatex
