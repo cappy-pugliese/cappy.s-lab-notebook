@@ -27,4 +27,15 @@ todos:
     - recommended ld pruning my vcf
     - tried to ld prune using the algatr software but was having difficulty
     - decided to try to ld prune using plink instead and output a new vcf
-      - transferred ld pruned vcf file onto my laptop from cluster
+      - transferred ld prunned vcf file onto my laptop from cluster
+
+### Tuesday (1/27)
+- realized I needed to do some other stuff first in the tutorial before starting TESS
+  - did the genetic data processing portion
+    - learned some stuff, but did not need to do most of it because I already have an ld prunned vcf file
+  - started the environmental data processing portion
+    - I had already started doing some of this without knowing there was a tutorial for it
+    - made sure my coordinates were projected properly
+    - did some collinearity tests on the bioclimatic data
+    - started to make a raster pca but ran into issues
+      - next steps are to troubleshoot
