@@ -39,3 +39,7 @@ todos:
     - did some collinearity tests on the bioclimatic data
     - started to make a raster pca but ran into issues
       - next steps are to troubleshoot
+
+### Wednesday (1/28)
+- made a lot of progress with the environmental data processing portion
+  - kept running into error after error, but eventually got the code to work for me
