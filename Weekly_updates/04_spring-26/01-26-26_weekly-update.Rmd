@@ -45,6 +45,7 @@ todos:
   - kept running into error after error, but eventually got the code to work for me
 
 ## Week 2/2 - 2/6
+### Monday (2/2)
 - finished the genetics distance section
 - made src.R for running algatr
 - worked on tess
@@ -56,3 +57,7 @@ todos:
     - am unsure if it has something to do with my coords or my raster, because everything up until the tess ggplot mapping worked fine
   - the normal tess plot worked fine using base tess without algatr
   - unsure what the issue is
+
+### Tuesday (2/3)
+- worked on homework for phylogenetics
+  - made my own python script to do the calculations

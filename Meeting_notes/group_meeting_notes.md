@@ -103,3 +103,7 @@ https://clauswilke.com/dataviz/ - look more into the geospacial data - choroplet
 -   try to move away from the r figure defaults
 
 ------------------------------------------------------------------------
+
+## 02-03-26
+
+- went over paper
