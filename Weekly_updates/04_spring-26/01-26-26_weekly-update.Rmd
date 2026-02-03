@@ -43,3 +43,16 @@ todos:
 ### Wednesday (1/28)
 - made a lot of progress with the environmental data processing portion
   - kept running into error after error, but eventually got the code to work for me
+
+## Week 2/2 - 2/6
+- finished the genetics distance section
+- made src.R for running algatr
+- worked on tess
+  - finished all of it
+  - ending map was very wonky, did not separate out by color for some reason
+  - entire map was all the same color
+    - tried to troubleshoot, but there is very little information online about algatr besides the paper and the github itself
+    - no one else has seemed to run into this issue
+    - am unsure if it has something to do with my coords or my raster, because everything up until the tess ggplot mapping worked fine
+  - the normal tess plot worked fine using base tess without algatr
+  - unsure what the issue is

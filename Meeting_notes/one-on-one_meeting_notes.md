@@ -392,3 +392,13 @@ For next meeting??
 -   focus on algatr
 -   early defense might be too much
     -   have to finish writing thesis by then as well
+
+
+## 02-02-26
+
+- continue working on algatr
+- work on basic analysis
+    - tess, genotype distance approaches
+- might have issues getting region file running
+- message andrius if run into any issues
+- hold off on tree stuff for now
