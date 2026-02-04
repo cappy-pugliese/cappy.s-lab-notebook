@@ -61,3 +61,14 @@ todos:
 ### Tuesday (2/3)
 - worked on homework for phylogenetics
   - made my own python script to do the calculations
+
+### Wednesday (2/4)
+- troubleshot algatr tess not working with Andrius
+  - we were able to figure out what looked funky and fix it
+  - I was able to generate the plot!
+- started working on wingen portion
+  - spent a while trying to figure out which projection to use
+    - eventually found Goode Homolosine projection
+    - works for calculation, but the map looks really funky, I might be able to find a slightly better one?
+  - successfully generated a plot map of pi
+    - working on making the map look more readable with krigging and masking
