@@ -72,3 +72,5 @@ todos:
     - works for calculation, but the map looks really funky, I might be able to find a slightly better one?
   - successfully generated a plot map of pi
     - working on making the map look more readable with krigging and masking
+- also started working on MMRR (Multiple matrix regression with randomization)
+  - did not get too far
