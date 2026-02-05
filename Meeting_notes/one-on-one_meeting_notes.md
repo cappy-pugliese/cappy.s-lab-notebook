@@ -402,3 +402,17 @@ For next meeting??
 - might have issues getting region file running
 - message andrius if run into any issues
 - hold off on tree stuff for now
+
+## 02-05-26
+- cut off the wisconsin sample for wingen
+- try using the poly approach for tess
+    - can also separate out the ks to look at those
+- next week iqtree?
+
+### focus on
+- pc plot with ancestries
+- might be interested to see by year
+    - order bar plot by year
+        - mixed results might mean multiple introductions
+- read some more papers
+    - look at paper he sent
