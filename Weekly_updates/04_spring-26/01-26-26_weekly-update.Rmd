@@ -79,3 +79,15 @@ todos:
 - skimmed and read some new wns papers
 - skimmed/re-read some wns papers I already had
 - reorganized my citations and notes on zotero
+
+### Friday (2/6)
+- generated a bunch of graphs
+  - tess: poly approach (x2)
+  - tess: separated k's
+  - barplot by year
+
+
+
+### focus on
+-   [] pc plot with ancestries
+-   [] cut off the wisconsin sample for wingen
