@@ -74,3 +74,8 @@ todos:
     - working on making the map look more readable with krigging and masking
 - also started working on MMRR (Multiple matrix regression with randomization)
   - did not get too far
+
+### Thursday (2/5)
+- skimmed and read some new wns papers
+- skimmed/re-read some wns papers I already had
+- reorganized my citations and notes on zotero
