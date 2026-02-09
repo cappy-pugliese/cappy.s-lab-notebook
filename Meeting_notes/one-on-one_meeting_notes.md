@@ -417,3 +417,19 @@ For next meeting??
         -   mixed results might mean multiple introductions
 -   [x] read some more papers
     -   [x] look at paper he sent
+
+
+## 02-09-26
+### focus on
+- MMRR and GGM --> might take longer
+    - ***migration rate method from MMRR
+    - focus on MMRR first
+- try to start writing
+    - begining of methods
+- (wingen after)
+### my questions:
+- bams
+    - babaduk to trim the reads
+    - align with wam
+    - sorting with picard
+- share with him so he can fill in what I missed
