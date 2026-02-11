@@ -27,6 +27,17 @@ header-includes:
   - one of the graphs I got using the "full" model came out wonky, but all of the graphs came out fine when I used the "best" model
   - the graphs came out differently than expected, it seems like there is some (odd?) grouping happening
 
+### Tuesday (2/10)
+- moved methods outline and citations to word doc
+- added software citations to zotero and updated the citations on the word doc
+- went to go start writing the first half of the methods section and accidentally got distracted
+  - found a lot of new samples (added Jan 2026) from Canada
+  - honestly it probably would not take me all that long if I wanted to add them to the data??
+  - although it would probably take much longer than I think so probably not
+  - but I did start to write a python script to compare the number of samples I could add to my data, but did not get too far
+    - not to toot my own horn, but I am getting better at python
+    - I still can't do much and it takes me forever, but at least I am no longer a lost puppy
+
 ### focus on (from last week)
 -   [] pc plot with ancestries
 -   [] cut off the wisconsin sample for wingen
