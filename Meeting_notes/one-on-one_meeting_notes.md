@@ -433,3 +433,17 @@ For next meeting??
     - align with wam
     - sorting with picard
 - share with him so he can fill in what I missed
+
+## 02-12-26
+- drop washington sample (Pd_59) and try gdm and mmrr again (and tess)
+    - give the map just the eastcoast instead of the whole map
+- try to generate the mmrr map plot
+- wingen
+- eventually might want to run RDA
+- use sharepoint to share doc
+- back up onedrive stuff!!!!
+    - university is getting rid of onedrive
+
+## 02-16-26
+still need to make trees
+andrius adding two versions of the European sample

@@ -38,6 +38,17 @@ header-includes:
     - not to toot my own horn, but I am getting better at python
     - I still can't do much and it takes me forever, but at least I am no longer a lost puppy
 
+### Wednesday (2/11)
+- completed the GDM portion
+  - generated a bunch of graphs
+  - messed around with QGIS to try to make a shapefile around the sample area (for one of the GDM maps)
+    - took a bit because I forgot how to use QGIS
+    - eventually got the shapefile, just to realize it was completely unecessary
+
+### Thursday (2/12)
+- made a new csv file without Washington sample (Pd_59)
+- resized the map to focus on the other samples
+
 ### focus on (from last week)
 -   [] pc plot with ancestries
 -   [] cut off the wisconsin sample for wingen
