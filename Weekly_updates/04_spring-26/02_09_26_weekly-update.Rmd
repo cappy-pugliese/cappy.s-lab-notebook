@@ -14,7 +14,11 @@ header-includes:
 
 ## This week 2/9 - 2/13
 
-### focus on
+### focus on (from last week)
+-   [] pc plot with ancestries
+-   [] cut off the wisconsin sample for wingen
+
+### focus on (this week)
 - MMRR and GGM --> might take longer
     - ***migration rate method from MMRR
     - focus on MMRR first
@@ -49,6 +53,35 @@ header-includes:
 - made a new csv file without Washington sample (Pd_59)
 - resized the map to focus on the other samples
 
-### focus on (from last week)
--   [] pc plot with ancestries
--   [] cut off the wisconsin sample for wingen
+
+## Week 2/16 - 2/20
+
+### focus on:
+- [x] drop washington sample (Pd_59) and try gdm and mmrr again (and tess)
+    - [x] give the map just the eastcoast instead of the whole map
+- [] try to generate the mmrr map plot --> resistance distances
+  - cappy: maybe try with a water surfaces raster or elevation levels???
+- [] wingen
+- [] eventually might want to run RDA
+- [] use sharepoint to share doc
+
+### Monday
+- read lab meeting paper
+- operation get rid of washington sample
+  - made new vcf (filtered out PD_59 with bcfview)
+  - redid plink ld
+  - also redid pcangsd, but did not look at results yet
+  - redid tess & made new graphs
+  - redid mmrr
+    - had to use the do_everything command
+    - the previous code was not working for some reason, idk why
+  - redid gdm
+    - got a cooler-looking map
+    - PC3 had a significant effect, but there is one point that looks to be an outlier
+
+- ok I'm done for the day, so here are my own todo thoughts:
+  - figure out how to read in waterways shapefile into R
+    - use that file for the resistance mmrr map
+  - also get elevation data and try to use it for the resistance mmrr map
+  - shrink the data so I'm only looking at samples from the same year, since they seem to be heavily grouped by year
+    - and see what happens then
