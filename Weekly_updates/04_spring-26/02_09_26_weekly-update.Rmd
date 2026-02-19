@@ -61,6 +61,11 @@ header-includes:
     - [x] give the map just the eastcoast instead of the whole map
 - [] try to generate the mmrr map plot --> resistance distances
   - cappy: maybe try with a water surfaces raster or elevation levels???
+  - [] nope, focus on trying to run FEEMs instead
+- [] PCA plot
+  - might have to follow the pcangsd tutorial
+  - [] without washington
+  - [] with all original (Pd) samples
 - [] wingen
 - [] eventually might want to run RDA
 - [] use sharepoint to share doc

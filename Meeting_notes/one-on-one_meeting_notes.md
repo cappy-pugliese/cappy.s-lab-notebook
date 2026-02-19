@@ -447,3 +447,21 @@ For next meeting??
 ## 02-16-26
 still need to make trees
 andrius adding two versions of the European sample
+
+
+## 02-19-26
+- pca plot (color points by year)
+    - maybe also look at sampling types (library prep?)
+    - pcangsd
+        - might have done in lab, could try to look back at the code
+        - run with minus washington
+        - run with all samples (including european)
+    - or can try with PCA adegenet package
+- mmrr resistances
+    - maybe try running feems instead
+        - basic run may be easy
+        - cross validation (bootstrapping?) might be difficult
+            - might crash
+        - start off with just feems
+        - follow along tutorial
+        - Nick Van Gilder has also run FEEMS if have questions
