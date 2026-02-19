@@ -85,3 +85,10 @@ header-includes:
   - also get elevation data and try to use it for the resistance mmrr map
   - shrink the data so I'm only looking at samples from the same year, since they seem to be heavily grouped by year
     - and see what happens then
+
+### Wednesday
+- added more citations to thesis draft
+- added some bulletpoints to intro section to help plan out what I'm going to write
+- read some more WNS papers I had saved
+  - organized my zotero citations
+- looked more into FEEMS and potentially running it as well
