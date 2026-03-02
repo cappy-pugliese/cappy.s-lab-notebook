@@ -1,7 +1,7 @@
 ---
 title: "02-09-26 weekly update"
 author: "Cappy Pugliese"
-date: "2-9 - 2/13"
+date: "2/9 - 2/20"
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -64,11 +64,11 @@ header-includes:
   - [] nope, focus on trying to run FEEMs instead
 - [] PCA plot
   - might have to follow the pcangsd tutorial
-  - [] without washington
+  - [x] without washington
   - [] with all original (Pd) samples
 - [] wingen
 - [] eventually might want to run RDA
-- [] use sharepoint to share doc
+- [x] use sharepoint to share doc
 
 ### Monday
 - read lab meeting paper
@@ -97,3 +97,9 @@ header-includes:
 - read some more WNS papers I had saved
   - organized my zotero citations
 - looked more into FEEMS and potentially running it as well
+
+### Friday
+- read lab meeting paper
+- talked to Max
+- took Max on a tour around campus while walking him back to the Graduate Hotel
+- dinner with lab and Max

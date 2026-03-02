@@ -1,0 +1,48 @@
+---
+title: "02-23-26 weekly update"
+author: "Cappy Pugliese"
+date: "2/23 - 2/27"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+fontsize: 12pt
+linestretch: 1.25
+header-includes:
+  \usepackage{fontspec}
+  \setmainfont{Courier}
+---
+
+## This week 2/23 - 2/27
+
+### focus on (from last week):
+- [] look into running FEEMS
+- [x] PCA plot
+  - might have to follow the pcangsd tutorial
+  - [x] without washington
+  - [x] with all original (Pd) samples
+- [] wingen
+- [] eventually might want to run RDA
+- [] finish reading lab meeting paper
+- [] look through article (slack)
+    - focus on sections 6 and 7
+
+### Monday (2/23)
+- figured out how to make PCA plot based on PCAngasd covariance matrix
+- made a bunch of PCA plots
+    - messed around with what the points were colored by
+    - it looks like instrument and single vs paired might have some effect because they kind of form some groups
+    - by year, lat, and long were somewhat more mixed
+    - also tried to look at by collection type (i.e. bat species host, cave wall, etc.) but I had to go down a lot of rabbit holes and not all samples had this information so I gave up for the time being
+
+### Wednesday (2/25)
+- made PCA plots for all original Pd samples (similar to what I did on Monday)
+- finished wingen
+- downloaded feems onto the cluster
+
+### Thurs (2/26)
+- sent email to schedule MS defense
+  - heard back from Jill
+  - it looks like Dan is currently away and not able to respond
+
+### Sat
+- applied for summer graduation

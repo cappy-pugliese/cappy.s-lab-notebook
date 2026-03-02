@@ -465,3 +465,31 @@ andrius adding two versions of the European sample
         - start off with just feems
         - follow along tutorial
         - Nick Van Gilder has also run FEEMS if have questions
+
+## 02-26-26
+- figure out PCA percentages
+    - eigen/ec matrix
+    - number of PC# over total
+- use pixy to calculate population statistics
+    - look at pi over time
+    - or pi since starting point
+- Fst and distance between pops (will show isolation by distance)
+    - should have a positive correlation
+    - shows that over time that they have become different
+- proportion of shared alleles --> try (DPS)
+- euclidian distance doesn't capture everything (doesn't scale for certain things)
+- bray-curtis --> try
+- keep working on FEEMS
+- [x] declare summer graduation by April 1st
+    - organize timing with advisory committee
+    - [x] sent defense timing email
+    - will need to eventually send a follow up email
+
+## 3-02-26
+calculating Fst (pixy)
+- if doesn't work well by location
+    - group by year
+    - or by ancestries
+- need vcf and which individual belongs to which population
+    - might need to minimize populations
+- might run into issues
