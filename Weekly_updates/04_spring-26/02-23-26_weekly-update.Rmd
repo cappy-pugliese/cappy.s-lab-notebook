@@ -13,18 +13,14 @@ header-includes:
 ---
 
 ## This week 2/23 - 2/27
-
 ### focus on (from last week):
 - [] look into running FEEMS
 - [x] PCA plot
   - might have to follow the pcangsd tutorial
   - [x] without washington
   - [x] with all original (Pd) samples
-- [] wingen
+- [x] wingen
 - [] eventually might want to run RDA
-- [] finish reading lab meeting paper
-- [] look through article (slack)
-    - focus on sections 6 and 7
 
 ### Monday (2/23)
 - figured out how to make PCA plot based on PCAngasd covariance matrix
@@ -44,5 +40,47 @@ header-includes:
   - heard back from Jill
   - it looks like Dan is currently away and not able to respond
 
-### Sat
+### Sat (2/28)
 - applied for summer graduation
+
+## Week 3/2 - 3/6
+### focus on:
+- [] estimating Fst using pixy
+- [] add to thesis draft
+- [] finish reading lab meeting paper
+- [] look through article (slack)
+    - focus on sections 6 and 7
+
+### to keep in mind:
+- figure out PCA percentages
+    - eigen/ec matrix
+    - number of PC# over total
+- use pixy to calculate population statistics
+    - look at pi over time
+    - or pi since starting point
+- graph: Fst and distance between pops (will show isolation by distance)
+    - should have a positive correlation
+    - shows that over time that they have become different
+- euclidian distance doesn't capture everything (doesn't scale for certain things)
+    - proportion of shared alleles --> try (DPS)
+    - bray-curtis --> try
+- keep working on FEEMS
+- eventually send follow up email (scheduling MS defense)
+
+### Monday (3/2)
+today todos
+- [x] look into running pixy
+  - made a script
+  - banging my head against a metaphorical wall
+  - troubleshooting mania
+  - pixy is unable to find invariants, causing it to stop early
+    - something goes wrong when ignoring invariants and also stops early
+    - not recommended to ignore invariants anyway, I just wanted to see if it would even run, and it didn't
+  - ideas after taking a break:
+    - try with an unfiltered vcf --> not sure if that is the best, but maybe I've filtered out some of the allsites by accident???
+    - try again with a different pixy version. Maybe there is something wrong with this beta version?
+    - message andrius if all else fails
+    
+- [] finish reading lab meeting paper
+- [] look through article (slack)
+    - focus on sections 6 and 7
