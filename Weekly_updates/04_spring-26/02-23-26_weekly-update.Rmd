@@ -80,7 +80,11 @@ today todos
     - try with an unfiltered vcf --> not sure if that is the best, but maybe I've filtered out some of the allsites by accident???
     - try again with a different pixy version. Maybe there is something wrong with this beta version?
     - message andrius if all else fails
-    
+- finally got pixy running (I think? I'll need to go back and check)
+  - had to use unfiltered vcf
+  - had to change the years to text --> pixy did not like the numbers
+  - had to change Fst_type to hudson instead of the default
+
 - [] finish reading lab meeting paper
 - [] look through article (slack)
     - focus on sections 6 and 7
