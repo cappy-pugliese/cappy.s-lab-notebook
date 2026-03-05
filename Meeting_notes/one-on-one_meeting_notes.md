@@ -493,3 +493,23 @@ calculating Fst (pixy)
 - need vcf and which individual belongs to which population
     - might need to minimize populations
 - might run into issues
+
+## 3-05-26
+1. try to plot fst 
+2. get feems up and running
+- do a when to meet for defense date (soon!!!)
+- present to the lab on March 31
+- ideally send in thesis draft by April 14th
+
+pixy
+- first: run fst with 10kb (cap at 50kb)
+- can also just set fst na's to 0 where pi and dxy = 0
+- we expect pi to be small
+
+plotting
+- x axis: window positioning (average for each position)
+- y axis: Fst (or dxy)
+- do 2006 vs the others, color by year (will probs have 8 graphs)
+
+- average pi (sudo log??) across genome vs year
+    - violin plot for windows

@@ -84,7 +84,18 @@ today todos
   - had to use unfiltered vcf
   - had to change the years to text --> pixy did not like the numbers
   - had to change Fst_type to hudson instead of the default
-
-- [] finish reading lab meeting paper
-- [] look through article (slack)
+- [x] finish reading lab meeting paper
+- [x] look through article (slack)
     - focus on sections 6 and 7
+
+### Wednesday (3/4)
+- [x] check on pixy run
+- made input to run pixy using the pcangsd pops
+  - also put that running
+- used awk to clean up the pixy run and get rid of all the NAs and non-useful(?) information
+- downloaded files to laptop
+
+### before next lab meeting:
+- [] send in comments for lab meeting paper
+  - include line numbers
+  - major and minor comments
