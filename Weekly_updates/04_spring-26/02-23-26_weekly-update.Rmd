@@ -96,6 +96,14 @@ today todos
 - downloaded files to laptop
 
 ### before next lab meeting:
-- [] send in comments for lab meeting paper
+- [x] send in comments for lab meeting paper
   - include line numbers
   - major and minor comments
+
+### Friday (3/6)
+- redid pixy run with window size equal to 10000
+- worked with data in R
+  - used the results from dxy to get rid of most of the NAs that were in the fst data
+  - ignoring the rest of the NAs (small portion)
+  - manipulated the data many times to try and get it into a violin plot
+  - made some (like 3) plots
