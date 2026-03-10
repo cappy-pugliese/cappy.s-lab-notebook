@@ -107,3 +107,16 @@ today todos
   - ignoring the rest of the NAs (small portion)
   - manipulated the data many times to try and get it into a violin plot
   - made some (like 3) plots
+
+## Week 3/9 - 3/13
+### Monday (3/9)
+- [x] focus on feems
+  - downloaded miniconda and installed feems on my laptop instead of using the cluster
+  - got positron working with my conda environment
+  - able to run feems interactively with positron
+- started following the tutorial
+  - my current plink files were made using the ld tag
+  - not a lot of snps
+  - might want to go back and redo it without the ld tag
+    - nope. literally has the same number of snps
+  - was able to generate a plot with the coordinates and the grid
