@@ -120,3 +120,5 @@ today todos
   - might want to go back and redo it without the ld tag
     - nope. literally has the same number of snps
   - was able to generate a plot with the coordinates and the grid
+  
+- next steps = cross validation tutorial and then the fit feems portion of this tutorial
