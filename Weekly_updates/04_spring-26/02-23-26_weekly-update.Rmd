@@ -122,3 +122,11 @@ today todos
   - was able to generate a plot with the coordinates and the grid
   
 - next steps = cross validation tutorial and then the fit feems portion of this tutorial
+
+### Wednesday (3/11)
+- worked on feems and pixy graphs
+  - saved the pixy graphs from the other day, made 2 more for comparing 2008 to 2016
+  - did cross-validation step to generate lambda/lambda_q values
+    - the lambda values that had the least cv error don't really plot much on the graph
+  - generated fit feems graph (there are still more steps to do)
+  - generated fit feems plot
