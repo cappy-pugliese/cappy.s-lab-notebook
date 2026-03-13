@@ -144,4 +144,4 @@ today todos
   - had trouble extracting some information in the gff file because it was not all in the same order
   - had better luck with the gtf file
 - spent some time (a lot of time actually) doing something I thought I needed to do, but turns out I did not need to do that at all
-- finally got the bed files needed for pixy, and put two runs going (one for by year, and one for by pop)
+- finally got the bed files needed for pixy, and put some runs going (2 for by genes, 2 for by scaffolds)
