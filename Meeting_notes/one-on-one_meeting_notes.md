@@ -513,3 +513,25 @@ plotting
 
 - average pi (sudo log??) across genome vs year
     - violin plot for windows
+
+## 3-12-26
+- fst --> calculate number of snps greater than 0 for each group
+- look at dxy, pi
+- try feemsmix
+- do a when to meet for defense date (soon!!!) --> send after spring break???
+
+results so far
+- it is not clonal
+- differentiation as they diverge
+    - primarily year based
+    - differentiation over time
+
+genome does have annotations
+- can look at gene differences
+- gtf/gff file
+- can make a bed file out of the gtf
+    - chromosome, chromosome start, chromosome end columns, geneid, gene column --> extract
+    - make sure the scaffolds are the same names as the vcf
+    - gtf has refseq information
+- can give pixy the bed file
+    - use scaffolds as window size

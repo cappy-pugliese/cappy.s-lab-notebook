@@ -45,10 +45,10 @@ header-includes:
 
 ## Week 3/2 - 3/6
 ### focus on:
-- [] estimating Fst using pixy
-- [] add to thesis draft
-- [] finish reading lab meeting paper
-- [] look through article (slack)
+- [x] estimating Fst using pixy
+- [x] add to thesis draft
+- [x] finish reading lab meeting paper
+- [x] look through article (slack)
     - focus on sections 6 and 7
 
 ### to keep in mind:
@@ -120,7 +120,6 @@ today todos
   - might want to go back and redo it without the ld tag
     - nope. literally has the same number of snps
   - was able to generate a plot with the coordinates and the grid
-  
 - next steps = cross validation tutorial and then the fit feems portion of this tutorial
 
 ### Wednesday (3/11)
@@ -130,3 +129,19 @@ today todos
     - the lambda values that had the least cv error don't really plot much on the graph
   - generated fit feems graph (there are still more steps to do)
   - generated fit feems plot
+
+### Thursday (3/12)
+#### to focus on:
+- [x] getting information out of gtf/gff file
+- [x] rerun pixy separating by scaffold instead of window size
+  - [] look at dxy, pi, and fst
+  - [] only look at more than 0 for fst
+    - total number greater than zero, divided by number of samples?????
+- [] finish feems tutorial --> feemsmix
+
+### Friday (3/13)
+- spent a while working with awk and trying to get the right information out of the gtf/gff files
+  - had trouble extracting some information in the gff file because it was not all in the same order
+  - had better luck with the gtf file
+- spent some time (a lot of time actually) doing something I thought I needed to do, but turns out I did not need to do that at all
+- finally got the bed files needed for pixy, and put two runs going (one for by year, and one for by pop)
