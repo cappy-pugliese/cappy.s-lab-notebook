@@ -1,11 +1,23 @@
 ## This week 3/16 - 3/20
 ### focus on:
-- feems admix
-- genome and scaffold based fst, dxy, and pi
-- writing
+- [x] feems admix
+- [] genome and scaffold based fst, dxy, and pi
+- [] writing
 
 ### Monday (3/16)
 - downloaded the pixy runs from the cluster
 - worked on making new graphs
 - did not get very far because I was trying to account for sample size
     - not sure if what I did makes statistical sense. It probably does not
+
+### Tuesday (3/17)
+- had an extremely slow start to my day --> was feeling very stressed
+- going to focus on working on the rest of FEEMs today
+    - finished feemsmix
+- tried to do a little bit more with the pixy results, did not get very far
+    - made a duplicate R script to work with the by genes, and changed a few things to get it to work
+    - looked at avg_fst == 1
+        - included 52 genes
+        - all included pop9 (2016) compared to other populations
+        - some scaffolds seem to have more genes with fst == 1 than others
+        - might want to look at the scaffold pixy results first before diving further??
