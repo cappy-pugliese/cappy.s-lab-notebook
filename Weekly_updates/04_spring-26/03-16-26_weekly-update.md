@@ -1,7 +1,7 @@
 ## This week 3/16 - 3/20
 ### focus on:
 - [x] feems admix
-- [] genome and scaffold based fst, dxy, and pi
+- [x] genome and scaffold based fst, dxy, and pi
 - [] writing
 
 ### Monday (3/16)
@@ -21,3 +21,7 @@
         - all included pop9 (2016) compared to other populations
         - some scaffolds seem to have more genes with fst == 1 than others
         - might want to look at the scaffold pixy results first before diving further??
+
+### Wednesday (3/18)
+- made graphs for scaffold pixy run
+- got info out of the gene pixy run
