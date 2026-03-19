@@ -25,3 +25,11 @@
 ### Wednesday (3/18)
 - made graphs for scaffold pixy run
 - got info out of the gene pixy run
+
+### Thursday (3/19)
+- finished up some graphs for the gene pixy run
+- started to get info for the highest fst genes
+- had lab meeting
+    - focus on running iqtree
+        - put it running with the 3 extra samples (clades and outgroup)
+    - look at the number of genes that exceed the scaffold fst value instead

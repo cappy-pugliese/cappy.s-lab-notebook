@@ -535,3 +535,11 @@ genome does have annotations
     - gtf has refseq information
 - can give pixy the bed file
     - use scaffolds as window size
+
+## 3-19-26
+- can look at the number of genes that exceed the scaffold fst value
+- the two genome types (two clades)
+    - pretty recent nanocore samples
+- run iqtree on really large windows, could also just exclude invariant sites
+    - invariant sites my use up a lot of memory if you keep those in
+- [] focus on getting iqtree running
