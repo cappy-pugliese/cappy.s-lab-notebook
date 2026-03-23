@@ -33,3 +33,15 @@
     - focus on running iqtree
         - put it running with the 3 extra samples (clades and outgroup)
     - look at the number of genes that exceed the scaffold fst value instead
+
+## Week 3/23 - 3/27
+- todos:
+    - [x] send out a when to meet for defense date
+        - [] eventually check up on
+    - [] make powerpoint to present to lab
+    - [] focus on writing
+    - [] work on iqtree after Andrius has processed the samples
+
+### Monday (3/23)
+- sent out when to meet
+- started making powerpoint
