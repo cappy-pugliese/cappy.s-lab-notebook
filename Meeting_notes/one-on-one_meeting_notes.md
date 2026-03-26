@@ -543,3 +543,12 @@ genome does have annotations
 - run iqtree on really large windows, could also just exclude invariant sites
     - invariant sites my use up a lot of memory if you keep those in
 - [] focus on getting iqtree running
+
+## 3-26-26
+- think about the figure order
+- share all my figures in onedrive with andrius
+- run iqtree
+    - Pd_47 & Pd_70 are the two clades
+    - use one of the non-Pd samples as an outgroup
+    - can also re-run PCA plot with american plus those two european samples, but I am not sure it will make too much of a difference?? But can always test it out
+- main focus on finishing up presentation (and preparing), and also getting some writing done

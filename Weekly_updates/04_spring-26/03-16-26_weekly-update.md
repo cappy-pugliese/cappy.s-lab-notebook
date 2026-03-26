@@ -45,3 +45,8 @@
 ### Monday (3/23)
 - sent out when to meet
 - started making powerpoint
+
+### Tuesday & Wednesday (3/24 & 25)
+- worked on writing
+    - added to methods section
+    - worked in citations
