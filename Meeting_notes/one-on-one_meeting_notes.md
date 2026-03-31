@@ -552,3 +552,17 @@ genome does have annotations
     - use one of the non-Pd samples as an outgroup
     - can also re-run PCA plot with american plus those two european samples, but I am not sure it will make too much of a difference?? But can always test it out
 - main focus on finishing up presentation (and preparing), and also getting some writing done
+
+
+### 3-30-26
+- overview slide
+    - highlight 3 results
+    - big statement that is true/false, testible, conclusion
+    - i.e. pd is more variable than previous studies
+        - here is how fst increases over time (genetic divergence)
+- introduction to the system
+- be a bit more selective about figures
+    - can have some more in the back
+- make sure to get points across
+- dont need to include all the methods (but include in defense)
+- summary slide

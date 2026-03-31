@@ -2,7 +2,7 @@
 ### focus on:
 - [x] feems admix
 - [x] genome and scaffold based fst, dxy, and pi
-- [] writing
+- [x] writing
 
 ### Monday (3/16)
 - downloaded the pixy runs from the cluster
@@ -50,3 +50,11 @@
 - worked on writing
     - added to methods section
     - worked in citations
+
+### Thursday (3/26)
+- worked on powerpoint
+
+### Friday (3/27)
+- worked on writing
+    - added to introduction
+    - found a few more citations and added to zotero, still have to add into resources section
