@@ -37,9 +37,9 @@
 ## Week 3/23 - 3/27
 - todos:
     - [x] send out a when to meet for defense date
-        - [] eventually check up on
-    - [] make powerpoint to present to lab
-    - [] focus on writing
+        - [x] eventually check up on
+    - [x] make powerpoint to present to lab
+    - [x] focus on writing
     - [] work on iqtree after Andrius has processed the samples
 
 ### Monday (3/23)

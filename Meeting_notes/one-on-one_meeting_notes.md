@@ -566,3 +566,30 @@ genome does have annotations
 - make sure to get points across
 - dont need to include all the methods (but include in defense)
 - summary slide
+
+### 4-2-26
+- specify haploid with plink before iqtree
+- for no invariant sites: use +asc
+    - use the model that it used the first time +asc
+- mixture models, can run mixturefinder
+- by the end of first paragraph should be talking about the study organism
+    - pathogenic fungi are often understudied
+    - talk about "how I have solved it" at the end
+
+- script: window analysis
+    - usually run astral at the end
+    - astral makes consensus tree
+    - big windows 10,000 window size
+    - double check amount of windows generated, might be one less or one extra
+
+- points to hit on in my paper
+    - divergence over time, not super clonal
+        - increasing over the years
+        - looking at it over space and time --> three strong clusters
+        - look at changes in coding regions vs non coding regions
+    - try to pull up what information is in pc3
+    - feems results
+        - long range dispersal vs short range dispersal
+        - bat migration explains why it moves faster south than it does east to west
+- pick one or two points to weave into the introduction
+    - look at bigger review papers on ecology of wns (ecology an impacts of wns, doesn't really talk about the fungus itself)
