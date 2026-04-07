@@ -572,15 +572,17 @@ genome does have annotations
 - for no invariant sites: use +asc
     - use the model that it used the first time +asc
 - mixture models, can run mixturefinder
-- by the end of first paragraph should be talking about the study organism
-    - pathogenic fungi are often understudied
-    - talk about "how I have solved it" at the end
 
 - script: window analysis
     - usually run astral at the end
     - astral makes consensus tree
     - big windows 10,000 window size
     - double check amount of windows generated, might be one less or one extra
+
+writing:
+- by the end of first paragraph should be talking about the study organism
+    - pathogenic fungi are often understudied
+    - talk about "how I have solved it" at the end
 
 - points to hit on in my paper
     - divergence over time, not super clonal

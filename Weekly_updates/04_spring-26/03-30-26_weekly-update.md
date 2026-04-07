@@ -42,3 +42,9 @@
 
 - want to work on writing next week, because I'm stressing about it
 - I fear if I keep running more and more things, I'm never going to get the writing portion done
+
+### Monday (4/6)
+- did not meet for individual lab meeting
+- worked on making some better graphs for pixy to see the differences in years better
+- tried to work on writing, ended up reading a bunch of papers and going down a research rabbit hole that led me nowhere
+- read lab meeting paper
