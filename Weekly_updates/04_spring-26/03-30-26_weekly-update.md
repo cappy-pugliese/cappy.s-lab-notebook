@@ -48,3 +48,14 @@
 - worked on making some better graphs for pixy to see the differences in years better
 - tried to work on writing, ended up reading a bunch of papers and going down a research rabbit hole that led me nowhere
 - read lab meeting paper
+
+### Wednesday (4/8)
+- spent lot of time working on introduction
+- I may or may not be making the introduction too long
+- added some more sources in zotero (included in introduction)
+
+### Friday (4/10)
+- edited names on phylogeny
+- ran a new iqtree group
+- edited names on new phylogeny
+- color coded the new phylogeny by year

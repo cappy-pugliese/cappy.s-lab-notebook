@@ -592,6 +592,17 @@ writing:
     - try to pull up what information is in pc3
     - feems results
         - long range dispersal vs short range dispersal
-        - bat migration explains why it moves faster south than it does east to west
+        - bat migration explains why it moves faster south than it does east to west???
 - pick one or two points to weave into the introduction
     - look at bigger review papers on ecology of wns (ecology an impacts of wns, doesn't really talk about the fungus itself)
+
+### 4-9-26
+- phylogeny figure
+    - relabel phylogenies in cladogram
+    - drop the clonal ones
+    - color code by year for north american samples
+        - can also make another tree with just the american samples
+            - can color by year or by tess delimination
+    - two clades paper
+        - supplementary information --> data table 10 includes srr information
+        - won't have all the information, might be able to deduce based on phylogeny

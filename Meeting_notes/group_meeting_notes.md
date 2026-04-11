@@ -111,3 +111,6 @@ https://clauswilke.com/dataviz/ - look more into the geospacial data - choroplet
 ## 02-10-26
 
 - talked about openAI usage and the nature opinion piece
+
+## 04-07-26
+- talked about doing a github introduction/tutorial for next week
