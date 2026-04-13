@@ -43,6 +43,8 @@
 - want to work on writing next week, because I'm stressing about it
 - I fear if I keep running more and more things, I'm never going to get the writing portion done
 
+## Week 4/6 - 4/10
+
 ### Monday (4/6)
 - did not meet for individual lab meeting
 - worked on making some better graphs for pixy to see the differences in years better
@@ -59,3 +61,9 @@
 - ran a new iqtree group
 - edited names on new phylogeny
 - color coded the new phylogeny by year
+
+## Week 4/13 - 4/17
+todos
+- focus on writing!!!
+
+### Monday (4/13)
