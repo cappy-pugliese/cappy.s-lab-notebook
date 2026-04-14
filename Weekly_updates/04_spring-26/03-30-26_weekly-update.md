@@ -67,3 +67,5 @@ todos
 - focus on writing!!!
 
 ### Monday (4/13)
+- basically finished intro
+- added figures to paper
