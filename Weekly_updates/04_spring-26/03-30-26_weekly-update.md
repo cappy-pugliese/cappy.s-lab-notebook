@@ -69,3 +69,17 @@ todos
 ### Monday (4/13)
 - basically finished intro
 - added figures to paper
+
+### Tuesday (4/14)
+- **need to (try to) finish writing and send in to lab by Sunday**
+    - **try to send to advisory committee by next week**
+- worked on writing results section
+- edited figure 1 so the pca percentages are present
+
+### Wednesday (4/15)
+- Working on writing results section
+    - got sidetracked and am rerunning the phylogeny because I want to use regular bootstrapping instead of ultrafast bootstrapping
+    - put runs going for only_pd and n-amer_pd groups
+    - runs finished, still need to look at, but I am able to see the different trees now which is what I wanted
+- wrote like ~2 paragraphs in the results section
+    - would have done more, but had to drive home today
