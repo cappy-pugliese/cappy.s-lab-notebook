@@ -83,3 +83,40 @@ todos
     - runs finished, still need to look at, but I am able to see the different trees now which is what I wanted
 - wrote like ~2 paragraphs in the results section
     - would have done more, but had to drive home today
+
+### Thursday (4/16)
+- worked on writing results
+- changed phylogeny for figure 1 with the regular bootstrapping run
+
+### Friday (4/17)
+- working on results section
+    - population structure portion is nearly complete
+        - [] need to make figure 2 for north american phylogeny / pca?? results
+            - could honestly probably put the pca results in supplemental, might just be beating a dead horse at this point if I keep it in the actual paper.
+        - [] add on to results from figure 3
+        - [] probably need to go back and edit all the figure legends
+    - working on pixy portion
+
+paper todos:
+- [] last sentence in intro
+- [] finish the methods section
+- [] finish results
+- [] write discussion
+- [] write conclusion
+- [] add in all the missing citations and reorganize
+- [] get rid of any unused citations
+- [] add figures/tables to supplemental portion
+
+### Saturday (4/18)
+- added more to results
+- added a little to methods
+- added in comments on what I have left to do
+- tried to get better pixy calculations, but pixy decided not to work on me
+    - trying to troubleshoot a lil
+- remade algatr tess figure
+
+- [] check on pixy runs on xanadu
+    - if both of them have issues:
+        - try running another old run (or two) on mantis
+        - send an issue in on github
+        - seems like it might be an issue with the code itself, but I don't know why it worked back in march but is not longer working now??? something is funky.
