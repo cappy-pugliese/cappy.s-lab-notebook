@@ -120,3 +120,14 @@ paper todos:
         - try running another old run (or two) on mantis
         - send an issue in on github
         - seems like it might be an issue with the code itself, but I don't know why it worked back in march but is not longer working now??? something is funky.
+
+### Sunday (4/19)
+- did some more writing
+    - finished the FEEMS section
+    - edited/added to methods
+    - edited things here and there
+- xanadu runs
+    - the older one ran just fine, the newer one still ran into problems
+    - giving up on it at this point, it's not worth the trouble with the amount of time I have left
+- edited north america phylogeny and made new pca plots
+    - still debating how to format/which pca plots to use
