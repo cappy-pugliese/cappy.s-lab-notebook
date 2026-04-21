@@ -131,3 +131,16 @@ paper todos:
     - giving up on it at this point, it's not worth the trouble with the amount of time I have left
 - edited north america phylogeny and made new pca plots
     - still debating how to format/which pca plots to use
+
+### Monday (4/20)
+- made figure for North American phylogeny + PCAs
+- reran FEEMSmiz with k = 7 instead of 10
+- added on to thesis/edited
+- ran a new phylogeny with all samples (including all outgroups)
+    - realized my original run with the outgroup only included one european and one asian sample
+    - ran with more than one outgroup just in case
+    - some of the north american samples branch out before the european and asian samples
+        - running again with actual bootstrapping
+        - wondering if there was recombination happening between fungal Pseudogymnoascus species
+        - would be interesting if that is the case
+        - obviously that might be too much to add on right now, but would be very interesting
