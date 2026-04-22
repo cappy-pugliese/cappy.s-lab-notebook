@@ -144,3 +144,19 @@ paper todos:
         - wondering if there was recombination happening between fungal Pseudogymnoascus species
         - would be interesting if that is the case
         - obviously that might be too much to add on right now, but would be very interesting
+
+### Tuesday (4/21)
+- its officially crunch time
+- realized the pca for ALGATR was never scaled, so basically had to go and rerun things
+    - will probably need to rerun wingen and MMRR again, did not do that yet since I dont currently have figures in the paper for those guys
+- fixed a few paper figures
+- figured out the highest loadings for pcs 1, 2, and 3
+- basically started to rewrite the gdm section and expand
+- wrote the methods section for ALGATR
+
+to focus on for wednesday:
+- [] finish up the gdm section
+- [] write the feems method section
+- [] actually work on the discussion section
+- [] look at lab member's comments and work those in
+- [] attempt to write conclusion if time
