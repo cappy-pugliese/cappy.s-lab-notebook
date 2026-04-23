@@ -155,8 +155,18 @@ paper todos:
 - wrote the methods section for ALGATR
 
 to focus on for wednesday:
-- [] finish up the gdm section
-- [] write the feems method section
-- [] actually work on the discussion section
+- [x] finish up the gdm section
+- [] write the feems and pixy method section
+- [x] actually work on the discussion section
 - [] look at lab member's comments and work those in
 - [] attempt to write conclusion if time
+
+- after sending thesis draft: go back and check on cluster phylogeny run
+
+### Wednesday
+- mainly focused on writing the discussion section
+- finished writing teh gdm section
+- added a little bit to the introduction for the ending paragraph sentences
+- added in the rest of my citations from zotero
+    - will still need to add in sample data citations
+- schedule sent thesis draft to committee members
