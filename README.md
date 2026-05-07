@@ -102,3 +102,27 @@ Click [here](/Weekly_updates) to see my lab notebook entries
 -   worked on scripts for iqtree
     -   still have yet to finish running those
     -   ran into issues -- turned out to be something wrong with the version of iqtree 3.0 itself
+
+------------------------------------------------------------------------
+
+### 2026 Spring Semester
+
+#### Courses
+- Phylogenetics with Paul
+    - learned a lot about the math behind many phylogenetic methods
+
+#### Made SO much progress in terms of research
+- finished up the rest of my analyses
+    - algatr
+    - pixy
+    - feems
+    - iqtree
+- spent a lot of time writing my thesis
+- made powerpoint for my thesis defense
+    - did an initial run through with lab members
+    - made changes based on that run through
+    - successfully defended my thesis to my committee members
+- had comments after defense and needed to work on my thesis a bit more
+
+#### Scripts
+- too many to recall here
