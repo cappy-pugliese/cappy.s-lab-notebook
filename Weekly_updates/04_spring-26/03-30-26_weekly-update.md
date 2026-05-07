@@ -1,3 +1,6 @@
+# Weekly Update: 3/30 - 4/24
+(basically all of April)
+
 ## This week 3/30 - 4/03
 ### focus on:
 - [x] powerpoint
@@ -163,10 +166,27 @@ to focus on for wednesday:
 
 - after sending thesis draft: go back and check on cluster phylogeny run
 
-### Wednesday
+### Wednesday (4/22)
 - mainly focused on writing the discussion section
-- finished writing teh gdm section
+- finished writing the gdm section
 - added a little bit to the introduction for the ending paragraph sentences
 - added in the rest of my citations from zotero
     - will still need to add in sample data citations
 - schedule sent thesis draft to committee members
+
+### Thursday (4/23)
+- made some edits to thesis
+    - rewrote some of what Andrius had written (since it was slightly off)
+    - merged some of what Andrius wrote to fix flow
+    - fixed figure numbers
+
+### Friday (4/24)
+focus:
+- [] lab members' comments
+- [x] try to finish methods section
+- [x] merge more of Andrius' writing with my own in the discussion
+
+weekend focus:
+- [X] start to shift focus back to presentation
+- [X] little more writing
+- [] start making supplemental figures
