@@ -2,7 +2,7 @@
 
 ## defense comment todos
 [] fixing phylogenies, talking with Elizabeth
-[] gdm with genetic distance vs geographic vs time
+[x] gdm with genetic distance vs geographic vs time
 [] add section in results about time and space being confounding
     [] address what is not confounded
 [] structure thesis similar to powerpoint, add in research questions
@@ -10,9 +10,8 @@
 [] Be careful with general use of terms
 
 ## focus for rest of the week 5/7 - 5/11
-[] work on defense comments
-[] fixing phylogeny times
-[] algatr gdm with time instead of environmental data
+[x] work on defense comments
+[x] algatr gdm with time instead of environmental data
 
 ## Thursday (5/7)
 - focused on algatr gdm
@@ -25,3 +24,17 @@
         - eventually gave up on generating the map
 - found that time has a much stronger predictor importance compared to geographic distance (with significance of p = 0.03)
 
+## Friday (5/8)
+- had to run errands so didn't get much done
+- Andrius sent code for matrix regression
+    - code did not quite work, was able to make a different time_dist matrix by cheating and using the ALGATR gen_dist() function
+    - all predictors were statistically significant (genetic distance, geographic distance, and time)
+- need to check in with Dan about code accuracy
+    - [] try to see if I can talk with him on monday? or send an email
+
+## Sat/Sun
+- [] figure out what model works best with data
+- [] maybe try running with all sites instead of snps
+
+## Monday
+- meet with Elizabeth to talk about phylogenies
