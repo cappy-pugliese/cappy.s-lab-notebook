@@ -34,7 +34,12 @@
 
 ## Sat/Sun
 - [] figure out what model works best with data
-- [] maybe try running with all sites instead of snps
+    - attempted, but kept running into iqtree errors
+    - might need to use an earlier version of iqtree
+        - xanadu has earlier versions --> might need to run there
+- [x] maybe try running with all sites instead of snps
+    - allsites does not work when making phylip file for iqtree
+    - phylip file only takes snps
 
 ## Monday
 - meet with Elizabeth to talk about phylogenies
