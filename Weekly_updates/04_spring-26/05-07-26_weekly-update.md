@@ -42,4 +42,17 @@
     - phylip file only takes snps
 
 ## Monday
-- meet with Elizabeth to talk about phylogenies
+- [x] meet with Elizabeth to talk about phylogenies
+    - try filtering vcf again, this time with different filtering parameters
+        - original vcf
+        - set m to 1 and M to 4
+        - include invariant sites in the model (+I)
+        - run ultrafast, make sure it is ran with + nni (should do automatically, but double check)
+- filtered out vcfs
+    - tried running the new filtered vcfs with plink to generate phylip files and it didn't work
+    - I think plink needs biallelic data to generate the phylip file
+- I'm going to take a break but when I come back:
+    - [] redo vcfs but with it set back to m2 and m4
+    - if it's still broken then it's something else going wrong (doubt it, but you never know)
+    - [] run plink
+    - [] run iqtree
