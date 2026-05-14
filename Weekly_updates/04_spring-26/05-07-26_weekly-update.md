@@ -30,7 +30,8 @@
     - code did not quite work, was able to make a different time_dist matrix by cheating and using the ALGATR gen_dist() function
     - all predictors were statistically significant (genetic distance, geographic distance, and time)
 - need to check in with Dan about code accuracy
-    - [] try to see if I can talk with him on monday? or send an email
+    - [x] try to see if I can talk with him on monday? or send an email
+        - he is only in on Wednesdays as I found out, so sent an email instead
 
 ## Sat/Sun
 - [] figure out what model works best with data
@@ -41,7 +42,7 @@
     - allsites does not work when making phylip file for iqtree
     - phylip file only takes snps
 
-## Monday
+## Monday (5/11)
 - [x] meet with Elizabeth to talk about phylogenies
     - try filtering vcf again, this time with different filtering parameters
         - original vcf
@@ -52,7 +53,20 @@
     - tried running the new filtered vcfs with plink to generate phylip files and it didn't work
     - I think plink needs biallelic data to generate the phylip file
 - I'm going to take a break but when I come back:
-    - [] redo vcfs but with it set back to m2 and m4
+    - [x] redo vcfs but with it set back to m2 and M2
     - if it's still broken then it's something else going wrong (doubt it, but you never know)
-    - [] run plink
-    - [] run iqtree
+    - [x] run plink
+    - [x] run iqtree
+
+## Thursday (5/14)
+- todos
+    - [x] email dan --> schedule sent for tomorrow morning
+    - [x] todos from mon.
+- plink works with vcfs set back to m2 and M2
+    - probably why those parameters were set in the first place
+- ran iqtree model finder for the 3 groups (all, only-pd, and n-amer)
+    - the model finder for all samples is still running
+- ran iqtree with ultrafast bootstrapping plus NNI (per bootstrap) with the best fit models for both only-pd and n-amer
+    - it looks like branch length issue is still present
+    - might just be how it is based on the data, its probably harder to estimate branch lengths when the individuals are more closely related
+- schedule sent an email to Elizabeth with the phylogeny results
