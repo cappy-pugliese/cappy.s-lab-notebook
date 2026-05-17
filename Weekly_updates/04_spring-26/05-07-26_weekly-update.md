@@ -70,3 +70,24 @@
     - it looks like branch length issue is still present
     - might just be how it is based on the data, its probably harder to estimate branch lengths when the individuals are more closely related
 - schedule sent an email to Elizabeth with the phylogeny results
+
+## Friday (5/15)
+- got emails back from both Dan and Elizabeth
+    - glm is not the right approach for looking at genetic distance vs geo vs time
+    - Andrius sent link to BEDASSLE software on slack
+
+## Saturday (5/16)
+- looked into BEDASSLE
+    - uses different input data
+    - need actual population data (with multiple samples) I think?
+- looked into alternatives to the partial mantel test
+    - https://api.naturalis.fcnym.unlp.edu.ar/server/api/core/bitstreams/ac8e9a93-4229-4bb7-98cb-30642dc28a00/content
+        - Alternatives to the partial Mantel test in the study of environmental factors shaping human morphological variation
+        - Perez et al 2010
+        - best approach seems to be convert the distance matricies to vectors using PCA, then using a spatial regression model
+    - https://ruettenauer.github.io/assets/files/Ruettenauer_2022_Spatial-Regression-Models_.pdf
+        - Spatial Regression Models: A Systematic Comparison of Different Model Specifications Using Monte Carlo Experiment
+        - Rüttenauer 2022
+        - SLX seems to be the best spatial regression model according to this study
+    
+## Sunday (5/17)
