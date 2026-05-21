@@ -21,7 +21,7 @@
 
 ## To finish up masters:
 
-1.  Sit down with Elizabeth and look at phylogenies together, figure out best approaches here.
+1.  [x] Sit down with Elizabeth and look at phylogenies together, figure out best approaches here.
 
 2.  Run a model of genetic distance vs geographic vs temporal.
 
@@ -38,3 +38,5 @@
     -   Along with this, cite why you have those expectations/questions.
 
 6.  Be careful with general use of terms (population vs ancestry). Consider what a population of clonal organisms really is. Are WI/AL/WA really a population? Or a genetic cluster? Or a shared ancestry?
+
+    -   C: probably go with genetic cluster

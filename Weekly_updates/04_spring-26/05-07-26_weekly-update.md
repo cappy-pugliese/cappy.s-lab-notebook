@@ -1,8 +1,9 @@
 # Weekly Update: 5/7 - _insert date_
 
 ## defense comment todos
-[] fixing phylogenies, talking with Elizabeth
+[x] fixing phylogenies, talking with Elizabeth
 [x] gdm with genetic distance vs geographic vs time
+    [] might need a different approach
 [] add section in results about time and space being confounding
     [] address what is not confounded
 [] structure thesis similar to powerpoint, add in research questions
@@ -91,3 +92,18 @@
         - SLX seems to be the best spatial regression model according to this study
     
 ## Sunday (5/17)
+- focus on generating supplemental figures or work on writing??
+- worked on writing
+    - went through comments from Elizabeth and Chris
+
+## Wednesday (5/20)
+- worked on writing
+- did writing in a new document saved to my mac because I did not have wifi
+
+## Thursday (5/21)
+- worked on making phylogenhy figures
+    - made figure for ALL samples (without clones)
+    - made figure for North American only samples
+- still need to make the figure for the Pd only samples
+    - and then combine figures in powerpoint for the paper
+    - also should probably share with Elizabeth
