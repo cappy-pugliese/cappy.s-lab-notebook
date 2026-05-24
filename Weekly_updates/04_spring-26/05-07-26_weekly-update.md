@@ -101,9 +101,19 @@
 - did writing in a new document saved to my mac because I did not have wifi
 
 ## Thursday (5/21)
+- moved edits to shared document
 - worked on making phylogenhy figures
     - made figure for ALL samples (without clones)
     - made figure for North American only samples
 - still need to make the figure for the Pd only samples
     - and then combine figures in powerpoint for the paper
     - also should probably share with Elizabeth
+
+## Saturday (5/23)
+- made some edits to word doc
+- edited figures with powerpoint
+    - realized the figure I had been working on did not have the lab clones
+    - will either need to re-write, or redo figure
+    - might need to put into the supplemental instead??
+- put new phylogeny running (ALL) with best fit model
+    - will need to check up on it tomorrow
