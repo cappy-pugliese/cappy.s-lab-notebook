@@ -2,11 +2,12 @@
 
 ## defense comment todos
 [x] fixing phylogenies, talking with Elizabeth
+    [] add in new phylogenies, rewrite those sections
 [x] gdm with genetic distance vs geographic vs time
     [] might need a different approach
 [] add section in results about time and space being confounding
     [] address what is not confounded
-[] structure thesis similar to powerpoint, add in research questions
+[x] structure thesis similar to powerpoint, add in research questions
     [] cite why you have those expectations/questions
 [] Be careful with general use of terms
 
@@ -117,3 +118,27 @@
     - might need to put into the supplemental instead??
 - put new phylogeny running (ALL) with best fit model
     - will need to check up on it tomorrow
+
+## Sunday (5/24)
+- got phylogeny from the cluster
+- fixed labels for phylogenies
+
+## Wednesday (5/27)
+- remade figure 1 hopefully for the last time
+- put a modelfinder running for ALL no clones
+    - plan to redo that group with the correct model so that all phylogenies are run the same way
+- put iqtree running with best fit model
+    - got it from the cluster
+    - edited the phylogeny
+    - added to paper (supplementary figure)
+- added to paper
+
+## Monday (6/1)
+- todos for today
+    - [x] rewrite sections with phylogeny figures
+- added a good portion of text to paper
+- did a little bit of editting
+
+
+- [] need to add two citations in from this page: https://iqtree.github.io/doc/Substitution-Models#dna-models
+    - already did in text citation, just need to add actual citation to references
