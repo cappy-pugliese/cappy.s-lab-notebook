@@ -139,6 +139,22 @@
 - added a good portion of text to paper
 - did a little bit of editting
 
-
-- [] need to add two citations in from this page: https://iqtree.github.io/doc/Substitution-Models#dna-models
+- [x] need to add two citations in from this page: https://iqtree.github.io/doc/Substitution-Models#dna-models
     - already did in text citation, just need to add actual citation to references
+
+## Tuesday (6/2)
+- added missing citations
+
+## Tuesday (6/9)
+- made supplemental tables 1 and 2
+- had to play around with a bit of formatting
+- added page numbers
+
+## Wednesday
+- fixing up more formating
+- added in table 3
+- finished up and added in the rest of the supplemental tables and figures
+    - should be done with those (I think, besides the one Dagilis has to add in)
+- fixed main paper pixy figure
+- started writing methods for pixy section finally, idk why I put that off for so long
+    - did a little bit of copy and paste work from the results section, so will need to go back and reword things
